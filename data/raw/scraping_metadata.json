@@ -1,0 +1,17 @@
+{
+  "scraping_session": {
+    "start_time": "2025-09-23T17:37:29.305267",
+    "end_time": "2025-09-23T17:38:40.340677",
+    "duration_seconds": 0,
+    "total_jobs_collected": 0,
+    "batches_created": 6,
+    "configuration": {
+      "skill": "Data Science",
+      "pages_per_batch": 20,
+      "ai": true,
+      "delay": 1,
+      "start_page": 41,
+      "start_batch": 1
+    }
+  }
+}
