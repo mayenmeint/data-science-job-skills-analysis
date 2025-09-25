@@ -1,0 +1,8550 @@
+{
+  "metadata": {
+    "analysis_date": "2025-09-24T18:17:29.537739",
+    "total_jobs_analyzed": 11596,
+    "analysis_period": "2023-10-23 14:23:55.119000+00:00 to 2025-09-23 12:23:09.989340+00:00"
+  },
+  "skill_frequency": {
+    "total_skills_mentioned": 185285,
+    "unique_skills": 317,
+    "avg_skills_per_job": 15.97835460503622,
+    "top_skills": [
+      [
+        "Data Science",
+        11596
+      ],
+      [
+        "Python",
+        8018
+      ],
+      [
+        "Machine Learning",
+        7507
+      ],
+      [
+        "Computer Science",
+        5579
+      ],
+      [
+        "Sql",
+        4988
+      ],
+      [
+        "Statistics",
+        4653
+      ],
+      [
+        "Cloud",
+        4281
+      ],
+      [
+        "Data Engineer",
+        3861
+      ],
+      [
+        "Mathematics",
+        3348
+      ],
+      [
+        "Aws",
+        3312
+      ],
+      [
+        "Research",
+        3051
+      ],
+      [
+        "Architecture",
+        2780
+      ],
+      [
+        "Deployment",
+        2572
+      ],
+      [
+        "Azure",
+        2518
+      ],
+      [
+        "Data Analysis",
+        2425
+      ],
+      [
+        "Transformation",
+        2415
+      ],
+      [
+        "Gcp",
+        2401
+      ],
+      [
+        "Big Data",
+        2218
+      ],
+      [
+        "Power Bi",
+        2201
+      ],
+      [
+        "Agile",
+        2193
+      ]
+    ],
+    "skill_prevalence": {
+      "Data Science": 57.39047947568127,
+      "Python": 39.45325974473957,
+      "Machine Learning": 37.030010348396,
+      "Computer Science": 28.639185926181444,
+      "Sql": 24.793032080027597,
+      "Statistics": 22.895826146947222,
+      "Cloud": 20.619179027250777,
+      "Data Engineer": 19.265263884097966,
+      "Mathematics": 18.31666091755778,
+      "Aws": 16.833390824422214,
+      "Research": 14.367023111417732,
+      "Architecture": 13.323559848223526,
+      "Deployment": 12.633666781648845,
+      "Azure": 11.952397378406348,
+      "Data Analysis": 12.504311831666094,
+      "Transformation": 11.771300448430495,
+      "Gcp": 11.797171438427045,
+      "Big Data": 10.908934115212142,
+      "Power Bi": 10.175922731976543,
+      "Agile": 11.133149361848913,
+      "Testing": 10.969299758537426,
+      "Ios": 9.615384615384617,
+      "Tableau": 10.063815108658158,
+      "Security": 10.132804415315626,
+      "Automation": 9.710244912038632,
+      "Quantitative": 9.175577785443256,
+      "Deep Learning": 8.822007588823732,
+      "Llms": 9.192825112107624,
+      "Tensorflow": 9.106588478785788,
+      "Infrastructure": 9.494653328734046,
+      "Product Management": 9.52914798206278,
+      "Pytorch": 8.951362538806485,
+      "Ml Ops": 8.22697481890307,
+      "Nlp": 8.088996205588133,
+      "Cicd": 8.063125215591583,
+      "Generative Ai": 7.769920662297344,
+      "Databricks": 7.062780269058296,
+      "Api": 8.13211452224905,
+      "Java": 6.45912383580545,
+      "Scikit-Learn": 6.907554329078993
+    },
+    "skill_counts": {
+      "Data Science": 11596,
+      "Python": 8018,
+      "Machine Learning": 7507,
+      "Computer Science": 5579,
+      "Sql": 4988,
+      "Statistics": 4653,
+      "Cloud": 4281,
+      "Data Engineer": 3861,
+      "Mathematics": 3348,
+      "Aws": 3312,
+      "Research": 3051,
+      "Architecture": 2780,
+      "Deployment": 2572,
+      "Azure": 2518,
+      "Data Analysis": 2425,
+      "Transformation": 2415,
+      "Gcp": 2401,
+      "Big Data": 2218,
+      "Power Bi": 2201,
+      "Agile": 2193,
+      "Testing": 2126,
+      "Ios": 2059,
+      "Tableau": 2046,
+      "Security": 2011,
+      "Automation": 1950,
+      "Quantitative": 1853,
+      "Deep Learning": 1837,
+      "Llms": 1791,
+      "Tensorflow": 1790,
+      "Infrastructure": 1785,
+      "Product Management": 1784,
+      "Pytorch": 1703,
+      "Ml Ops": 1673,
+      "Nlp": 1665,
+      "Cicd": 1555,
+      "Generative Ai": 1542,
+      "Databricks": 1515,
+      "Api": 1475,
+      "Java": 1442,
+      "Scikit-Learn": 1399,
+      "Json": 1276,
+      "Reliability": 1247,
+      "Snowflake": 1190,
+      "Hadoop": 1153,
+      "Devops": 1145,
+      "Data Governance": 1127,
+      "Docker": 1120,
+      "Google Analytics": 1095,
+      "Pandas": 1086,
+      "S3": 1071,
+      "Airflow": 1063,
+      "Data Architect": 1031,
+      "Database": 1011,
+      "Kubernetes": 999,
+      "Project Management": 982,
+      "Product Development": 980,
+      "Git": 975,
+      "R": 974,
+      "Ux": 935,
+      "Storage": 923
+    }
+  },
+  "skill_categories": {
+    "programming": {
+      "count": 11500,
+      "percentage": 99.17212832011039,
+      "jobs": 11500
+    },
+    "ml frameworks": {
+      "count": 2424,
+      "percentage": 20.903759917212835,
+      "jobs": 2424
+    },
+    "big data": {
+      "count": 3543,
+      "percentage": 30.55363918592618,
+      "jobs": 3543
+    },
+    "cloud": {
+      "count": 4898,
+      "percentage": 42.238703001034835,
+      "jobs": 4898
+    },
+    "visualization": {
+      "count": 2226,
+      "percentage": 19.196274577440498,
+      "jobs": 2226
+    },
+    "statistics": {
+      "count": 4653,
+      "percentage": 40.125905484649884,
+      "jobs": 4653
+    },
+    "ml techniques": {
+      "count": 7722,
+      "percentage": 66.59192825112108,
+      "jobs": 7722
+    }
+  },
+  "skill_combinations": {
+    "total_combinations": 1743638,
+    "unique_combinations": 28535,
+    "top_combinations": [
+      [
+        [
+          "Data Science",
+          "Python"
+        ],
+        8018
+      ],
+      [
+        [
+          "Data Science",
+          "Machine Learning"
+        ],
+        7507
+      ],
+      [
+        [
+          "Machine Learning",
+          "Python"
+        ],
+        5612
+      ],
+      [
+        [
+          "Computer Science",
+          "Data Science"
+        ],
+        5579
+      ],
+      [
+        [
+          "Data Science",
+          "Sql"
+        ],
+        4988
+      ],
+      [
+        [
+          "Data Science",
+          "Statistics"
+        ],
+        4653
+      ],
+      [
+        [
+          "Cloud",
+          "Data Science"
+        ],
+        4281
+      ],
+      [
+        [
+          "Python",
+          "Sql"
+        ],
+        4098
+      ],
+      [
+        [
+          "Computer Science",
+          "Python"
+        ],
+        4086
+      ],
+      [
+        [
+          "Computer Science",
+          "Machine Learning"
+        ],
+        3965
+      ]
+    ]
+  },
+  "seniority_analysis": {
+    "Junior": {
+      "job_count": 435,
+      "top_skills": [
+        [
+          "Data Science",
+          435
+        ],
+        [
+          "Python",
+          283
+        ],
+        [
+          "Computer Science",
+          235
+        ],
+        [
+          "Machine Learning",
+          233
+        ],
+        [
+          "Sql",
+          212
+        ],
+        [
+          "Statistics",
+          178
+        ],
+        [
+          "Mathematics",
+          142
+        ],
+        [
+          "Cloud",
+          130
+        ],
+        [
+          "Research",
+          114
+        ],
+        [
+          "Data Analysis",
+          111
+        ]
+      ],
+      "avg_skills_per_job": 13.818390804597701
+    },
+    "Mid-Level": {
+      "job_count": 4918,
+      "top_skills": [
+        [
+          "Data Science",
+          4918
+        ],
+        [
+          "Python",
+          3557
+        ],
+        [
+          "Machine Learning",
+          2974
+        ],
+        [
+          "Computer Science",
+          2204
+        ],
+        [
+          "Sql",
+          2136
+        ],
+        [
+          "Statistics",
+          1881
+        ],
+        [
+          "Cloud",
+          1752
+        ],
+        [
+          "Data Engineer",
+          1661
+        ],
+        [
+          "Aws",
+          1387
+        ],
+        [
+          "Mathematics",
+          1191
+        ]
+      ],
+      "avg_skills_per_job": 15.359089060593737
+    },
+    "Manager": {
+      "job_count": 1123,
+      "top_skills": [
+        [
+          "Data Science",
+          1123
+        ],
+        [
+          "Machine Learning",
+          693
+        ],
+        [
+          "Python",
+          580
+        ],
+        [
+          "Computer Science",
+          520
+        ],
+        [
+          "Sql",
+          430
+        ],
+        [
+          "Data Engineer",
+          419
+        ],
+        [
+          "Statistics",
+          371
+        ],
+        [
+          "Cloud",
+          370
+        ],
+        [
+          "Mathematics",
+          345
+        ],
+        [
+          "Architecture",
+          331
+        ]
+      ],
+      "avg_skills_per_job": 15.170970614425645
+    },
+    "Senior": {
+      "job_count": 4569,
+      "top_skills": [
+        [
+          "Data Science",
+          4569
+        ],
+        [
+          "Machine Learning",
+          3237
+        ],
+        [
+          "Python",
+          3180
+        ],
+        [
+          "Computer Science",
+          2333
+        ],
+        [
+          "Statistics",
+          2031
+        ],
+        [
+          "Sql",
+          1937
+        ],
+        [
+          "Cloud",
+          1838
+        ],
+        [
+          "Data Engineer",
+          1622
+        ],
+        [
+          "Mathematics",
+          1543
+        ],
+        [
+          "Aws",
+          1466
+        ]
+      ],
+      "avg_skills_per_job": 17.4362004815058
+    },
+    "Intern": {
+      "job_count": 551,
+      "top_skills": [
+        [
+          "Data Science",
+          551
+        ],
+        [
+          "Python",
+          418
+        ],
+        [
+          "Machine Learning",
+          370
+        ],
+        [
+          "Computer Science",
+          287
+        ],
+        [
+          "Sql",
+          273
+        ],
+        [
+          "Research",
+          215
+        ],
+        [
+          "Statistics",
+          192
+        ],
+        [
+          "Cloud",
+          191
+        ],
+        [
+          "Deep Learning",
+          148
+        ],
+        [
+          "Nlp",
+          145
+        ]
+      ],
+      "avg_skills_per_job": 12.767695099818512
+    }
+  },
+  "location_analysis": {
+    "Germany": {
+      "job_count": 491,
+      "top_skills": [
+        [
+          "Data Science",
+          491
+        ],
+        [
+          "Python",
+          342
+        ],
+        [
+          "Machine Learning",
+          287
+        ],
+        [
+          "Sql",
+          236
+        ],
+        [
+          "Statistics",
+          166
+        ],
+        [
+          "Computer Science",
+          145
+        ],
+        [
+          "Cloud",
+          141
+        ],
+        [
+          "Data Engineer",
+          109
+        ],
+        [
+          "Mathematics",
+          109
+        ],
+        [
+          "Aws",
+          105
+        ]
+      ],
+      "avg_skills_per_job": 12.083503054989817
+    },
+    "US:Europe": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Quantitative",
+          1
+        ],
+        [
+          "Openai",
+          1
+        ],
+        [
+          "Huggingface",
+          1
+        ],
+        [
+          "Forecasting",
+          1
+        ],
+        [
+          "Computer Vision",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ],
+        [
+          "Llms",
+          1
+        ],
+        [
+          "Api",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 19.0
+    },
+    "Brazil": {
+      "job_count": 106,
+      "top_skills": [
+        [
+          "Data Science",
+          106
+        ],
+        [
+          "Python",
+          89
+        ],
+        [
+          "Machine Learning",
+          77
+        ],
+        [
+          "Sql",
+          62
+        ],
+        [
+          "Statistics",
+          51
+        ],
+        [
+          "Computer Science",
+          50
+        ],
+        [
+          "Mathematics",
+          44
+        ],
+        [
+          "Google Analytics",
+          41
+        ],
+        [
+          "S3",
+          40
+        ],
+        [
+          "Cloud",
+          39
+        ]
+      ],
+      "avg_skills_per_job": 18.349056603773583
+    },
+    "UK": {
+      "job_count": 459,
+      "top_skills": [
+        [
+          "Data Science",
+          459
+        ],
+        [
+          "Python",
+          307
+        ],
+        [
+          "Machine Learning",
+          305
+        ],
+        [
+          "Sql",
+          223
+        ],
+        [
+          "Statistics",
+          168
+        ],
+        [
+          "Computer Science",
+          166
+        ],
+        [
+          "Cloud",
+          164
+        ],
+        [
+          "Mathematics",
+          157
+        ],
+        [
+          "Data Engineer",
+          148
+        ],
+        [
+          "Aws",
+          136
+        ]
+      ],
+      "avg_skills_per_job": 14.934640522875817
+    },
+    "USA": {
+      "job_count": 4102,
+      "top_skills": [
+        [
+          "Data Science",
+          4102
+        ],
+        [
+          "Machine Learning",
+          2730
+        ],
+        [
+          "Python",
+          2674
+        ],
+        [
+          "Computer Science",
+          2518
+        ],
+        [
+          "Statistics",
+          1944
+        ],
+        [
+          "Sql",
+          1703
+        ],
+        [
+          "Cloud",
+          1482
+        ],
+        [
+          "Mathematics",
+          1387
+        ],
+        [
+          "Research",
+          1302
+        ],
+        [
+          "Data Engineer",
+          1284
+        ]
+      ],
+      "avg_skills_per_job": 16.894441735738663
+    },
+    "France": {
+      "job_count": 860,
+      "top_skills": [
+        [
+          "Data Science",
+          860
+        ],
+        [
+          "Python",
+          603
+        ],
+        [
+          "Transformation",
+          436
+        ],
+        [
+          "Machine Learning",
+          418
+        ],
+        [
+          "Cloud",
+          363
+        ],
+        [
+          "Data Engineer",
+          328
+        ],
+        [
+          "Sql",
+          273
+        ],
+        [
+          "Aws",
+          272
+        ],
+        [
+          "Gcp",
+          241
+        ],
+        [
+          "Azure",
+          215
+        ]
+      ],
+      "avg_skills_per_job": 11.817441860465117
+    },
+    "Singapore": {
+      "job_count": 78,
+      "top_skills": [
+        [
+          "Data Science",
+          78
+        ],
+        [
+          "Python",
+          61
+        ],
+        [
+          "Computer Science",
+          49
+        ],
+        [
+          "Machine Learning",
+          42
+        ],
+        [
+          "Statistics",
+          30
+        ],
+        [
+          "Cloud",
+          29
+        ],
+        [
+          "Sql",
+          27
+        ],
+        [
+          "Pytorch",
+          25
+        ],
+        [
+          "Data Analysis",
+          25
+        ],
+        [
+          "Data Engineer",
+          23
+        ]
+      ],
+      "avg_skills_per_job": 15.384615384615385
+    },
+    "Poland": {
+      "job_count": 318,
+      "top_skills": [
+        [
+          "Data Science",
+          318
+        ],
+        [
+          "Machine Learning",
+          249
+        ],
+        [
+          "Python",
+          231
+        ],
+        [
+          "Computer Science",
+          159
+        ],
+        [
+          "Sql",
+          148
+        ],
+        [
+          "Statistics",
+          137
+        ],
+        [
+          "Big Data",
+          130
+        ],
+        [
+          "Cloud",
+          120
+        ],
+        [
+          "Ml Ops",
+          113
+        ],
+        [
+          "Aws",
+          110
+        ]
+      ],
+      "avg_skills_per_job": 19.00943396226415
+    },
+    "India": {
+      "job_count": 1183,
+      "top_skills": [
+        [
+          "Data Science",
+          1183
+        ],
+        [
+          "Python",
+          924
+        ],
+        [
+          "Machine Learning",
+          871
+        ],
+        [
+          "Computer Science",
+          651
+        ],
+        [
+          "Statistics",
+          546
+        ],
+        [
+          "Sql",
+          528
+        ],
+        [
+          "Cloud",
+          479
+        ],
+        [
+          "Data Engineer",
+          445
+        ],
+        [
+          "Aws",
+          383
+        ],
+        [
+          "Mathematics",
+          369
+        ]
+      ],
+      "avg_skills_per_job": 18.97971259509721
+    },
+    "Peru": {
+      "job_count": 5,
+      "top_skills": [
+        [
+          "Data Science",
+          5
+        ],
+        [
+          "Google Analytics",
+          4
+        ],
+        [
+          "S3",
+          3
+        ],
+        [
+          "Python",
+          3
+        ],
+        [
+          "Pandas",
+          3
+        ],
+        [
+          "Statistics",
+          3
+        ],
+        [
+          "Architecture",
+          2
+        ],
+        [
+          "Agile",
+          2
+        ],
+        [
+          "Cloud",
+          2
+        ],
+        [
+          "Transformation",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 17.0
+    },
+    "Lithuania": {
+      "job_count": 6,
+      "top_skills": [
+        [
+          "Data Science",
+          6
+        ],
+        [
+          "Python",
+          6
+        ],
+        [
+          "Machine Learning",
+          6
+        ],
+        [
+          "Research",
+          5
+        ],
+        [
+          "S3",
+          5
+        ],
+        [
+          "Cicd",
+          4
+        ],
+        [
+          "Pyspark",
+          4
+        ],
+        [
+          "Security",
+          4
+        ],
+        [
+          "Google Analytics",
+          4
+        ],
+        [
+          "Aws",
+          4
+        ]
+      ],
+      "avg_skills_per_job": 24.333333333333332
+    },
+    "China": {
+      "job_count": 45,
+      "top_skills": [
+        [
+          "Data Science",
+          45
+        ],
+        [
+          "Python",
+          34
+        ],
+        [
+          "Computer Science",
+          32
+        ],
+        [
+          "Machine Learning",
+          28
+        ],
+        [
+          "Statistics",
+          26
+        ],
+        [
+          "Mathematics",
+          22
+        ],
+        [
+          "Data Analysis",
+          17
+        ],
+        [
+          "Research",
+          17
+        ],
+        [
+          "Cloud",
+          14
+        ],
+        [
+          "Deep Learning",
+          14
+        ]
+      ],
+      "avg_skills_per_job": 14.555555555555555
+    },
+    "Turkey": {
+      "job_count": 13,
+      "top_skills": [
+        [
+          "Data Science",
+          13
+        ],
+        [
+          "Python",
+          11
+        ],
+        [
+          "Machine Learning",
+          10
+        ],
+        [
+          "Statistics",
+          10
+        ],
+        [
+          "Research",
+          8
+        ],
+        [
+          "Mathematics",
+          6
+        ],
+        [
+          "S3",
+          6
+        ],
+        [
+          "Google Analytics",
+          6
+        ],
+        [
+          "Data Analysis",
+          6
+        ],
+        [
+          "Sql",
+          5
+        ]
+      ],
+      "avg_skills_per_job": 14.615384615384615
+    },
+    "Vietnam": {
+      "job_count": 64,
+      "top_skills": [
+        [
+          "Data Science",
+          64
+        ],
+        [
+          "Machine Learning",
+          59
+        ],
+        [
+          "Computer Science",
+          53
+        ],
+        [
+          "Python",
+          53
+        ],
+        [
+          "Deployment",
+          41
+        ],
+        [
+          "Research",
+          36
+        ],
+        [
+          "Pytorch",
+          34
+        ],
+        [
+          "Tensorflow",
+          31
+        ],
+        [
+          "Llms",
+          30
+        ],
+        [
+          "Cloud",
+          30
+        ]
+      ],
+      "avg_skills_per_job": 21.828125
+    },
+    "UAE": {
+      "job_count": 120,
+      "top_skills": [
+        [
+          "Data Science",
+          120
+        ],
+        [
+          "Computer Science",
+          106
+        ],
+        [
+          "Machine Learning",
+          97
+        ],
+        [
+          "Python",
+          97
+        ],
+        [
+          "Statistics",
+          93
+        ],
+        [
+          "Architecture",
+          62
+        ],
+        [
+          "Research",
+          59
+        ],
+        [
+          "Ios",
+          56
+        ],
+        [
+          "Json",
+          55
+        ],
+        [
+          "Forecasting",
+          52
+        ]
+      ],
+      "avg_skills_per_job": 15.316666666666666
+    },
+    "Israel": {
+      "job_count": 74,
+      "top_skills": [
+        [
+          "Data Science",
+          74
+        ],
+        [
+          "Machine Learning",
+          57
+        ],
+        [
+          "Computer Science",
+          48
+        ],
+        [
+          "Python",
+          46
+        ],
+        [
+          "Research",
+          42
+        ],
+        [
+          "Statistics",
+          31
+        ],
+        [
+          "Mathematics",
+          30
+        ],
+        [
+          "Big Data",
+          27
+        ],
+        [
+          "Llms",
+          25
+        ],
+        [
+          "Product Management",
+          24
+        ]
+      ],
+      "avg_skills_per_job": 14.445945945945946
+    },
+    "Sweden": {
+      "job_count": 102,
+      "top_skills": [
+        [
+          "Data Science",
+          102
+        ],
+        [
+          "Python",
+          66
+        ],
+        [
+          "Machine Learning",
+          63
+        ],
+        [
+          "Computer Science",
+          56
+        ],
+        [
+          "Statistics",
+          51
+        ],
+        [
+          "Mathematics",
+          39
+        ],
+        [
+          "Sql",
+          38
+        ],
+        [
+          "Data Engineer",
+          32
+        ],
+        [
+          "Cloud",
+          31
+        ],
+        [
+          "Agile",
+          29
+        ]
+      ],
+      "avg_skills_per_job": 12.92156862745098
+    },
+    "Spain": {
+      "job_count": 168,
+      "top_skills": [
+        [
+          "Data Science",
+          168
+        ],
+        [
+          "Python",
+          124
+        ],
+        [
+          "Machine Learning",
+          120
+        ],
+        [
+          "Statistics",
+          87
+        ],
+        [
+          "Computer Science",
+          87
+        ],
+        [
+          "Sql",
+          72
+        ],
+        [
+          "Agile",
+          64
+        ],
+        [
+          "Cloud",
+          63
+        ],
+        [
+          "Mathematics",
+          63
+        ],
+        [
+          "Aws",
+          56
+        ]
+      ],
+      "avg_skills_per_job": 16.285714285714285
+    },
+    "Canada": {
+      "job_count": 319,
+      "top_skills": [
+        [
+          "Data Science",
+          319
+        ],
+        [
+          "Machine Learning",
+          218
+        ],
+        [
+          "Python",
+          208
+        ],
+        [
+          "Computer Science",
+          185
+        ],
+        [
+          "Sql",
+          136
+        ],
+        [
+          "Statistics",
+          119
+        ],
+        [
+          "Mathematics",
+          117
+        ],
+        [
+          "Research",
+          105
+        ],
+        [
+          "Cloud",
+          102
+        ],
+        [
+          "Data Engineer",
+          96
+        ]
+      ],
+      "avg_skills_per_job": 15.77115987460815
+    },
+    "Ireland": {
+      "job_count": 64,
+      "top_skills": [
+        [
+          "Data Science",
+          64
+        ],
+        [
+          "Python",
+          39
+        ],
+        [
+          "Computer Science",
+          30
+        ],
+        [
+          "Statistics",
+          30
+        ],
+        [
+          "Power Bi",
+          30
+        ],
+        [
+          "Infrastructure",
+          27
+        ],
+        [
+          "Qa",
+          26
+        ],
+        [
+          "Machine Learning",
+          24
+        ],
+        [
+          "Sql",
+          24
+        ],
+        [
+          "Mathematics",
+          23
+        ]
+      ],
+      "avg_skills_per_job": 13.1875
+    },
+    "Japan": {
+      "job_count": 17,
+      "top_skills": [
+        [
+          "Data Science",
+          17
+        ],
+        [
+          "Python",
+          13
+        ],
+        [
+          "Machine Learning",
+          13
+        ],
+        [
+          "Mathematics",
+          12
+        ],
+        [
+          "Statistics",
+          11
+        ],
+        [
+          "Computer Science",
+          9
+        ],
+        [
+          "Quantitative",
+          9
+        ],
+        [
+          "Sql",
+          8
+        ],
+        [
+          "Data Engineer",
+          8
+        ],
+        [
+          "Infrastructure",
+          7
+        ]
+      ],
+      "avg_skills_per_job": 17.294117647058822
+    },
+    "Pakistan": {
+      "job_count": 19,
+      "top_skills": [
+        [
+          "Data Science",
+          19
+        ],
+        [
+          "Computer Science",
+          15
+        ],
+        [
+          "Python",
+          11
+        ],
+        [
+          "Sql",
+          9
+        ],
+        [
+          "Statistics",
+          9
+        ],
+        [
+          "Data Collection",
+          8
+        ],
+        [
+          "Research",
+          8
+        ],
+        [
+          "Power Bi",
+          7
+        ],
+        [
+          "Mathematics",
+          7
+        ],
+        [
+          "Cloud",
+          6
+        ]
+      ],
+      "avg_skills_per_job": 14.263157894736842
+    },
+    "Bahrain": {
+      "job_count": 7,
+      "top_skills": [
+        [
+          "Data Science",
+          7
+        ],
+        [
+          "Machine Learning",
+          7
+        ],
+        [
+          "Computer Science",
+          7
+        ],
+        [
+          "Statistics",
+          7
+        ],
+        [
+          "Anomaly Detection",
+          4
+        ],
+        [
+          "Transformation",
+          4
+        ],
+        [
+          "Data Governance",
+          4
+        ],
+        [
+          "Power Bi",
+          3
+        ],
+        [
+          "Aws",
+          3
+        ],
+        [
+          "Python",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 9.571428571428571
+    },
+    "Hungary": {
+      "job_count": 99,
+      "top_skills": [
+        [
+          "Data Science",
+          99
+        ],
+        [
+          "Data Engineer",
+          62
+        ],
+        [
+          "Machine Learning",
+          57
+        ],
+        [
+          "Python",
+          46
+        ],
+        [
+          "Power Bi",
+          40
+        ],
+        [
+          "Generative Ai",
+          39
+        ],
+        [
+          "Rest",
+          39
+        ],
+        [
+          "Sql",
+          36
+        ],
+        [
+          "Tableau",
+          34
+        ],
+        [
+          "Statistics",
+          32
+        ]
+      ],
+      "avg_skills_per_job": 13.313131313131313
+    },
+    "Mexico": {
+      "job_count": 91,
+      "top_skills": [
+        [
+          "Data Science",
+          91
+        ],
+        [
+          "Python",
+          73
+        ],
+        [
+          "Sql",
+          57
+        ],
+        [
+          "Machine Learning",
+          53
+        ],
+        [
+          "Statistics",
+          41
+        ],
+        [
+          "Cloud",
+          34
+        ],
+        [
+          "Research",
+          33
+        ],
+        [
+          "Data Engineer",
+          30
+        ],
+        [
+          "Data Analysis",
+          28
+        ],
+        [
+          "Tableau",
+          27
+        ]
+      ],
+      "avg_skills_per_job": 15.461538461538462
+    },
+    "Netherlands": {
+      "job_count": 236,
+      "top_skills": [
+        [
+          "Data Science",
+          236
+        ],
+        [
+          "Python",
+          145
+        ],
+        [
+          "Machine Learning",
+          111
+        ],
+        [
+          "Data Engineer",
+          99
+        ],
+        [
+          "Sql",
+          92
+        ],
+        [
+          "Computer Science",
+          85
+        ],
+        [
+          "Transformation",
+          74
+        ],
+        [
+          "Azure",
+          53
+        ],
+        [
+          "Statistics",
+          50
+        ],
+        [
+          "Data Governance",
+          50
+        ]
+      ],
+      "avg_skills_per_job": 10.546610169491526
+    },
+    "US:United Kingdom:Europe:India": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Airflow",
+          1
+        ],
+        [
+          "Clustering",
+          1
+        ],
+        [
+          "Sagemaker",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Decision Trees",
+          1
+        ],
+        [
+          "Quantitative",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Power Bi",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 27.0
+    },
+    "Romania": {
+      "job_count": 41,
+      "top_skills": [
+        [
+          "Data Science",
+          41
+        ],
+        [
+          "Python",
+          30
+        ],
+        [
+          "Statistics",
+          25
+        ],
+        [
+          "Machine Learning",
+          22
+        ],
+        [
+          "Cloud",
+          20
+        ],
+        [
+          "Sql",
+          19
+        ],
+        [
+          "Azure",
+          17
+        ],
+        [
+          "Data Engineer",
+          17
+        ],
+        [
+          "Aws",
+          17
+        ],
+        [
+          "Power Bi",
+          16
+        ]
+      ],
+      "avg_skills_per_job": 16.21951219512195
+    },
+    "Bulgaria": {
+      "job_count": 63,
+      "top_skills": [
+        [
+          "Data Science",
+          63
+        ],
+        [
+          "Python",
+          49
+        ],
+        [
+          "Machine Learning",
+          29
+        ],
+        [
+          "Statistics",
+          29
+        ],
+        [
+          "Data Analysis",
+          27
+        ],
+        [
+          "Sql",
+          27
+        ],
+        [
+          "Research",
+          26
+        ],
+        [
+          "Automation",
+          17
+        ],
+        [
+          "Mathematics",
+          16
+        ],
+        [
+          "Computer Science",
+          16
+        ]
+      ],
+      "avg_skills_per_job": 12.555555555555555
+    },
+    "Greece": {
+      "job_count": 18,
+      "top_skills": [
+        [
+          "Data Science",
+          18
+        ],
+        [
+          "Computer Science",
+          13
+        ],
+        [
+          "Sql",
+          12
+        ],
+        [
+          "Python",
+          12
+        ],
+        [
+          "Azure",
+          10
+        ],
+        [
+          "Reliability",
+          10
+        ],
+        [
+          "Data Analysis",
+          10
+        ],
+        [
+          "Data Engineer",
+          10
+        ],
+        [
+          "Security",
+          9
+        ],
+        [
+          "Kubernetes",
+          9
+        ]
+      ],
+      "avg_skills_per_job": 21.88888888888889
+    },
+    "Uruguay": {
+      "job_count": 48,
+      "top_skills": [
+        [
+          "Data Science",
+          48
+        ],
+        [
+          "Aws",
+          44
+        ],
+        [
+          "Python",
+          44
+        ],
+        [
+          "Machine Learning",
+          31
+        ],
+        [
+          "Databricks",
+          29
+        ],
+        [
+          "Snowflake",
+          28
+        ],
+        [
+          "Cloud",
+          26
+        ],
+        [
+          "Deployment",
+          25
+        ],
+        [
+          "Gcp",
+          24
+        ],
+        [
+          "Azure",
+          23
+        ]
+      ],
+      "avg_skills_per_job": 16.895833333333332
+    },
+    "Switzerland": {
+      "job_count": 85,
+      "top_skills": [
+        [
+          "Data Science",
+          85
+        ],
+        [
+          "Python",
+          54
+        ],
+        [
+          "Computer Science",
+          50
+        ],
+        [
+          "Machine Learning",
+          49
+        ],
+        [
+          "Research",
+          35
+        ],
+        [
+          "Statistics",
+          30
+        ],
+        [
+          "Data Engineer",
+          26
+        ],
+        [
+          "Automation",
+          24
+        ],
+        [
+          "Aws",
+          23
+        ],
+        [
+          "Sql",
+          23
+        ]
+      ],
+      "avg_skills_per_job": 13.764705882352942
+    },
+    "South Africa": {
+      "job_count": 58,
+      "top_skills": [
+        [
+          "Data Science",
+          58
+        ],
+        [
+          "Machine Learning",
+          39
+        ],
+        [
+          "Python",
+          37
+        ],
+        [
+          "Computer Science",
+          30
+        ],
+        [
+          "Data Engineer",
+          30
+        ],
+        [
+          "Sql",
+          28
+        ],
+        [
+          "Transformation",
+          26
+        ],
+        [
+          "Cloud",
+          25
+        ],
+        [
+          "Architecture",
+          24
+        ],
+        [
+          "Data Analysis",
+          21
+        ]
+      ],
+      "avg_skills_per_job": 14.60344827586207
+    },
+    "Belgium": {
+      "job_count": 138,
+      "top_skills": [
+        [
+          "Data Science",
+          138
+        ],
+        [
+          "Transformation",
+          111
+        ],
+        [
+          "Python",
+          85
+        ],
+        [
+          "Machine Learning",
+          82
+        ],
+        [
+          "Cloud",
+          58
+        ],
+        [
+          "Azure",
+          53
+        ],
+        [
+          "Data Engineer",
+          49
+        ],
+        [
+          "Big Data",
+          46
+        ],
+        [
+          "Aws",
+          45
+        ],
+        [
+          "Sql",
+          45
+        ]
+      ],
+      "avg_skills_per_job": 13.826086956521738
+    },
+    "Portugal": {
+      "job_count": 216,
+      "top_skills": [
+        [
+          "Data Science",
+          216
+        ],
+        [
+          "Python",
+          157
+        ],
+        [
+          "Machine Learning",
+          126
+        ],
+        [
+          "Computer Science",
+          124
+        ],
+        [
+          "Statistics",
+          104
+        ],
+        [
+          "Sql",
+          99
+        ],
+        [
+          "Data Engineer",
+          93
+        ],
+        [
+          "Cloud",
+          77
+        ],
+        [
+          "Agile",
+          67
+        ],
+        [
+          "Mathematics",
+          63
+        ]
+      ],
+      "avg_skills_per_job": 13.824074074074074
+    },
+    "Australia": {
+      "job_count": 149,
+      "top_skills": [
+        [
+          "Data Science",
+          149
+        ],
+        [
+          "Machine Learning",
+          105
+        ],
+        [
+          "Python",
+          94
+        ],
+        [
+          "Sql",
+          88
+        ],
+        [
+          "Data Engineer",
+          65
+        ],
+        [
+          "Cloud",
+          62
+        ],
+        [
+          "Computer Science",
+          54
+        ],
+        [
+          "Deployment",
+          52
+        ],
+        [
+          "Architecture",
+          50
+        ],
+        [
+          "Gcp",
+          47
+        ]
+      ],
+      "avg_skills_per_job": 16.140939597315437
+    },
+    "Austria": {
+      "job_count": 31,
+      "top_skills": [
+        [
+          "Data Science",
+          31
+        ],
+        [
+          "Python",
+          16
+        ],
+        [
+          "Cloud",
+          15
+        ],
+        [
+          "Cicd",
+          14
+        ],
+        [
+          "Machine Learning",
+          13
+        ],
+        [
+          "Agile",
+          12
+        ],
+        [
+          "Ios",
+          12
+        ],
+        [
+          "Darts",
+          11
+        ],
+        [
+          "Power Bi",
+          10
+        ],
+        [
+          "Deployment",
+          10
+        ]
+      ],
+      "avg_skills_per_job": 14.838709677419354
+    },
+    "Malaysia": {
+      "job_count": 92,
+      "top_skills": [
+        [
+          "Data Science",
+          92
+        ],
+        [
+          "Python",
+          78
+        ],
+        [
+          "Sql",
+          65
+        ],
+        [
+          "Machine Learning",
+          65
+        ],
+        [
+          "Research",
+          56
+        ],
+        [
+          "Cloud",
+          53
+        ],
+        [
+          "Automation",
+          52
+        ],
+        [
+          "Deep Learning",
+          41
+        ],
+        [
+          "Devops",
+          41
+        ],
+        [
+          "Project Management",
+          40
+        ]
+      ],
+      "avg_skills_per_job": 14.445652173913043
+    },
+    "Argentina": {
+      "job_count": 84,
+      "top_skills": [
+        [
+          "Data Science",
+          84
+        ],
+        [
+          "Machine Learning",
+          69
+        ],
+        [
+          "Architecture",
+          56
+        ],
+        [
+          "Python",
+          55
+        ],
+        [
+          "Data Infrastructure",
+          55
+        ],
+        [
+          "Data Engineer",
+          37
+        ],
+        [
+          "Big Data",
+          36
+        ],
+        [
+          "Databricks",
+          35
+        ],
+        [
+          "Cloud",
+          33
+        ],
+        [
+          "Power Bi",
+          32
+        ]
+      ],
+      "avg_skills_per_job": 14.773809523809524
+    },
+    "Morocco": {
+      "job_count": 32,
+      "top_skills": [
+        [
+          "Data Science",
+          32
+        ],
+        [
+          "Python",
+          24
+        ],
+        [
+          "Sql",
+          21
+        ],
+        [
+          "Cloud",
+          19
+        ],
+        [
+          "Transformers",
+          16
+        ],
+        [
+          "Api",
+          16
+        ],
+        [
+          "Big Data",
+          14
+        ],
+        [
+          "Tableau",
+          13
+        ],
+        [
+          "Data Engineer",
+          13
+        ],
+        [
+          "Power Bi",
+          12
+        ]
+      ],
+      "avg_skills_per_job": 16.71875
+    },
+    "Philippines": {
+      "job_count": 41,
+      "top_skills": [
+        [
+          "Data Science",
+          41
+        ],
+        [
+          "Python",
+          27
+        ],
+        [
+          "Computer Science",
+          26
+        ],
+        [
+          "Cloud",
+          24
+        ],
+        [
+          "Machine Learning",
+          22
+        ],
+        [
+          "Sql",
+          20
+        ],
+        [
+          "Statistics",
+          19
+        ],
+        [
+          "Tableau",
+          15
+        ],
+        [
+          "Power Bi",
+          14
+        ],
+        [
+          "Aws",
+          14
+        ]
+      ],
+      "avg_skills_per_job": 18.146341463414632
+    },
+    "Colombia": {
+      "job_count": 121,
+      "top_skills": [
+        [
+          "Data Science",
+          121
+        ],
+        [
+          "Python",
+          98
+        ],
+        [
+          "Machine Learning",
+          77
+        ],
+        [
+          "Sql",
+          77
+        ],
+        [
+          "Aws",
+          66
+        ],
+        [
+          "Architecture",
+          65
+        ],
+        [
+          "Data Engineer",
+          63
+        ],
+        [
+          "Cloud",
+          56
+        ],
+        [
+          "Data Infrastructure",
+          52
+        ],
+        [
+          "Snowflake",
+          48
+        ]
+      ],
+      "avg_skills_per_job": 16.75206611570248
+    },
+    "Colombia:Uruguay:Argentina:Chile": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Sagemaker",
+          1
+        ],
+        [
+          "Embeddings",
+          1
+        ],
+        [
+          "Transformers",
+          1
+        ],
+        [
+          "Langchain",
+          1
+        ],
+        [
+          "Generative Ai",
+          1
+        ],
+        [
+          "Gaming",
+          1
+        ],
+        [
+          "Ux",
+          1
+        ],
+        [
+          "Llms",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 25.0
+    },
+    "Egypt": {
+      "job_count": 21,
+      "top_skills": [
+        [
+          "Data Science",
+          21
+        ],
+        [
+          "Python",
+          17
+        ],
+        [
+          "Machine Learning",
+          17
+        ],
+        [
+          "Computer Science",
+          14
+        ],
+        [
+          "Statistics",
+          14
+        ],
+        [
+          "Sql",
+          12
+        ],
+        [
+          "Deployment",
+          11
+        ],
+        [
+          "Gcp",
+          10
+        ],
+        [
+          "Aws",
+          10
+        ],
+        [
+          "Tensorflow",
+          10
+        ]
+      ],
+      "avg_skills_per_job": 20.761904761904763
+    },
+    "U S.": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Ux",
+          2
+        ],
+        [
+          "Mathematics",
+          2
+        ],
+        [
+          "Json",
+          2
+        ],
+        [
+          "Product Development",
+          2
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Reinforcement Learning",
+          1
+        ],
+        [
+          "Android",
+          1
+        ],
+        [
+          "Ios",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 12.5
+    },
+    "Ukraine": {
+      "job_count": 17,
+      "top_skills": [
+        [
+          "Data Science",
+          17
+        ],
+        [
+          "Python",
+          14
+        ],
+        [
+          "Machine Learning",
+          12
+        ],
+        [
+          "Sql",
+          12
+        ],
+        [
+          "Statistics",
+          9
+        ],
+        [
+          "Computer Science",
+          8
+        ],
+        [
+          "Research",
+          8
+        ],
+        [
+          "Google Analytics",
+          7
+        ],
+        [
+          "S3",
+          6
+        ],
+        [
+          "Mathematics",
+          6
+        ]
+      ],
+      "avg_skills_per_job": 16.88235294117647
+    },
+    "Thailand": {
+      "job_count": 32,
+      "top_skills": [
+        [
+          "Data Science",
+          32
+        ],
+        [
+          "Python",
+          30
+        ],
+        [
+          "Cloud",
+          25
+        ],
+        [
+          "Storage",
+          22
+        ],
+        [
+          "Machine Learning",
+          22
+        ],
+        [
+          "Computer Science",
+          20
+        ],
+        [
+          "Statistics",
+          20
+        ],
+        [
+          "Sql",
+          19
+        ],
+        [
+          "Data Analysis",
+          16
+        ],
+        [
+          "Power Bi",
+          15
+        ]
+      ],
+      "avg_skills_per_job": 17.90625
+    },
+    "US": {
+      "job_count": 27,
+      "top_skills": [
+        [
+          "Data Science",
+          27
+        ],
+        [
+          "Mathematics",
+          21
+        ],
+        [
+          "Json",
+          20
+        ],
+        [
+          "Python",
+          15
+        ],
+        [
+          "Computer Science",
+          15
+        ],
+        [
+          "Machine Learning",
+          15
+        ],
+        [
+          "Research",
+          12
+        ],
+        [
+          "Statistics",
+          10
+        ],
+        [
+          "Product Management",
+          10
+        ],
+        [
+          "Cloud",
+          8
+        ]
+      ],
+      "avg_skills_per_job": 17.14814814814815
+    },
+    "Croatia": {
+      "job_count": 9,
+      "top_skills": [
+        [
+          "Data Science",
+          9
+        ],
+        [
+          "Cloud",
+          7
+        ],
+        [
+          "Data Engineer",
+          7
+        ],
+        [
+          "Gcp",
+          7
+        ],
+        [
+          "Python",
+          7
+        ],
+        [
+          "Sql",
+          6
+        ],
+        [
+          "Azure",
+          6
+        ],
+        [
+          "Nosql",
+          6
+        ],
+        [
+          "Aws",
+          6
+        ],
+        [
+          "Computer Science",
+          6
+        ]
+      ],
+      "avg_skills_per_job": 23.77777777777778
+    },
+    "New Zealand": {
+      "job_count": 22,
+      "top_skills": [
+        [
+          "Data Science",
+          22
+        ],
+        [
+          "Python",
+          16
+        ],
+        [
+          "Data Engineer",
+          12
+        ],
+        [
+          "Data Analysis",
+          11
+        ],
+        [
+          "Computer Science",
+          11
+        ],
+        [
+          "Aws",
+          10
+        ],
+        [
+          "S3",
+          9
+        ],
+        [
+          "Cicd",
+          9
+        ],
+        [
+          "Lambda",
+          9
+        ],
+        [
+          "Machine Learning",
+          9
+        ]
+      ],
+      "avg_skills_per_job": 13.727272727272727
+    },
+    "Kazakhstan": {
+      "job_count": 5,
+      "top_skills": [
+        [
+          "Data Science",
+          5
+        ],
+        [
+          "Computer Science",
+          3
+        ],
+        [
+          "Architecture",
+          2
+        ],
+        [
+          "Linux",
+          2
+        ],
+        [
+          "Clustering",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Neural Networks",
+          1
+        ],
+        [
+          "Data Architect",
+          1
+        ],
+        [
+          "Project Management",
+          1
+        ],
+        [
+          "Decision Trees",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 10.2
+    },
+    "Estonia": {
+      "job_count": 6,
+      "top_skills": [
+        [
+          "Data Science",
+          6
+        ],
+        [
+          "Python",
+          6
+        ],
+        [
+          "Machine Learning",
+          6
+        ],
+        [
+          "Data Analysis",
+          5
+        ],
+        [
+          "Computer Science",
+          5
+        ],
+        [
+          "Sql",
+          5
+        ],
+        [
+          "Pandas",
+          3
+        ],
+        [
+          "Scikit-Learn",
+          3
+        ],
+        [
+          "Deployment",
+          2
+        ],
+        [
+          "Unsupervised Learning",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 9.5
+    },
+    "Sri Lanka": {
+      "job_count": 15,
+      "top_skills": [
+        [
+          "Data Science",
+          15
+        ],
+        [
+          "Machine Learning",
+          12
+        ],
+        [
+          "Python",
+          10
+        ],
+        [
+          "Computer Science",
+          9
+        ],
+        [
+          "Sql",
+          7
+        ],
+        [
+          "Saas",
+          7
+        ],
+        [
+          "Statistics",
+          7
+        ],
+        [
+          "Automation",
+          7
+        ],
+        [
+          "Power Bi",
+          7
+        ],
+        [
+          "Data Engineer",
+          7
+        ]
+      ],
+      "avg_skills_per_job": 16.8
+    },
+    "Saudi Arabia": {
+      "job_count": 25,
+      "top_skills": [
+        [
+          "Data Science",
+          25
+        ],
+        [
+          "Python",
+          20
+        ],
+        [
+          "Statistics",
+          15
+        ],
+        [
+          "Sql",
+          15
+        ],
+        [
+          "Computer Science",
+          13
+        ],
+        [
+          "Machine Learning",
+          13
+        ],
+        [
+          "Power Bi",
+          12
+        ],
+        [
+          "Tableau",
+          11
+        ],
+        [
+          "Data Engineer",
+          11
+        ],
+        [
+          "Cloud",
+          10
+        ]
+      ],
+      "avg_skills_per_job": 15.4
+    },
+    "Indonesia": {
+      "job_count": 20,
+      "top_skills": [
+        [
+          "Data Science",
+          20
+        ],
+        [
+          "Python",
+          19
+        ],
+        [
+          "Statistics",
+          13
+        ],
+        [
+          "Sql",
+          13
+        ],
+        [
+          "Mathematics",
+          12
+        ],
+        [
+          "Big Data",
+          12
+        ],
+        [
+          "Machine Learning",
+          12
+        ],
+        [
+          "Computer Science",
+          11
+        ],
+        [
+          "Clustering",
+          9
+        ],
+        [
+          "Quantitative",
+          9
+        ]
+      ],
+      "avg_skills_per_job": 17.65
+    },
+    "UK:United States": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "S3",
+          1
+        ],
+        [
+          "Slack",
+          1
+        ],
+        [
+          "Ux",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Java",
+          1
+        ],
+        [
+          "Reinforcement Learning",
+          1
+        ],
+        [
+          "Ios",
+          1
+        ],
+        [
+          "Reliability",
+          1
+        ],
+        [
+          "Product Management",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 16.0
+    },
+    "Qatar": {
+      "job_count": 7,
+      "top_skills": [
+        [
+          "Data Science",
+          7
+        ],
+        [
+          "Python",
+          5
+        ],
+        [
+          "Computer Science",
+          4
+        ],
+        [
+          "Git",
+          3
+        ],
+        [
+          "Seaborn",
+          3
+        ],
+        [
+          "Reliability",
+          3
+        ],
+        [
+          "Pandas",
+          3
+        ],
+        [
+          "Data Analysis",
+          3
+        ],
+        [
+          "Matplotlib",
+          3
+        ],
+        [
+          "Statistics",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 10.428571428571429
+    },
+    "Italy": {
+      "job_count": 37,
+      "top_skills": [
+        [
+          "Data Science",
+          37
+        ],
+        [
+          "Python",
+          28
+        ],
+        [
+          "Machine Learning",
+          19
+        ],
+        [
+          "Sql",
+          19
+        ],
+        [
+          "Cloud",
+          16
+        ],
+        [
+          "Statistics",
+          15
+        ],
+        [
+          "Aws",
+          12
+        ],
+        [
+          "Ios",
+          12
+        ],
+        [
+          "Big Data",
+          11
+        ],
+        [
+          "Quantitative",
+          11
+        ]
+      ],
+      "avg_skills_per_job": 13.756756756756756
+    },
+    "US:Canada": {
+      "job_count": 3,
+      "top_skills": [
+        [
+          "Ml Ops",
+          3
+        ],
+        [
+          "Data Science",
+          3
+        ],
+        [
+          "Python",
+          3
+        ],
+        [
+          "Machine Learning",
+          3
+        ],
+        [
+          "Mathematics",
+          3
+        ],
+        [
+          "Json",
+          3
+        ],
+        [
+          "Statistics",
+          3
+        ],
+        [
+          "Quantitative",
+          3
+        ],
+        [
+          "Sql",
+          3
+        ],
+        [
+          "Ad",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 17.0
+    },
+    "Armenia": {
+      "job_count": 6,
+      "top_skills": [
+        [
+          "Data Science",
+          6
+        ],
+        [
+          "Python",
+          6
+        ],
+        [
+          "Computer Science",
+          5
+        ],
+        [
+          "Machine Learning",
+          4
+        ],
+        [
+          "Sql",
+          4
+        ],
+        [
+          "Cloud",
+          4
+        ],
+        [
+          "Security",
+          4
+        ],
+        [
+          "Azure",
+          3
+        ],
+        [
+          "Data Engineer",
+          3
+        ],
+        [
+          "Scikit-Learn",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 21.833333333333332
+    },
+    "Czech Republic": {
+      "job_count": 13,
+      "top_skills": [
+        [
+          "Data Science",
+          13
+        ],
+        [
+          "Python",
+          10
+        ],
+        [
+          "Machine Learning",
+          8
+        ],
+        [
+          "Cloud",
+          7
+        ],
+        [
+          "Data Engineer",
+          7
+        ],
+        [
+          "S3",
+          7
+        ],
+        [
+          "Google Analytics",
+          7
+        ],
+        [
+          "Sql",
+          6
+        ],
+        [
+          "Aws",
+          6
+        ],
+        [
+          "Transformation",
+          5
+        ]
+      ],
+      "avg_skills_per_job": 19.615384615384617
+    },
+    "Serbia": {
+      "job_count": 23,
+      "top_skills": [
+        [
+          "Data Science",
+          23
+        ],
+        [
+          "Machine Learning",
+          18
+        ],
+        [
+          "Python",
+          15
+        ],
+        [
+          "Data Engineer",
+          15
+        ],
+        [
+          "Azure",
+          12
+        ],
+        [
+          "Architecture",
+          12
+        ],
+        [
+          "Cloud",
+          11
+        ],
+        [
+          "Databricks",
+          10
+        ],
+        [
+          "Gcp",
+          9
+        ],
+        [
+          "Snowflake",
+          9
+        ]
+      ],
+      "avg_skills_per_job": 18.52173913043478
+    },
+    "United States:Canada": {
+      "job_count": 4,
+      "top_skills": [
+        [
+          "Data Science",
+          4
+        ],
+        [
+          "Json",
+          4
+        ],
+        [
+          "Mathematics",
+          4
+        ],
+        [
+          "Ux",
+          2
+        ],
+        [
+          "Aws",
+          2
+        ],
+        [
+          "Python",
+          2
+        ],
+        [
+          "Machine Learning",
+          2
+        ],
+        [
+          "Testing",
+          2
+        ],
+        [
+          "Backend",
+          2
+        ],
+        [
+          "Github",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 16.75
+    },
+    "Taiwan:Australia:New Zealand:Philippines:Thailand:UAE:Vietnam": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Mysql",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Power Bi",
+          1
+        ],
+        [
+          "Pandas",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ],
+        [
+          "Sql Server",
+          1
+        ],
+        [
+          "Research",
+          1
+        ],
+        [
+          "Cloud",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 25.0
+    },
+    "UK:France:Netherlands:Germany": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Product Management",
+          1
+        ],
+        [
+          "Databricks",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Product Development",
+          1
+        ],
+        [
+          "Sme",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 8.0
+    },
+    "Denmark": {
+      "job_count": 17,
+      "top_skills": [
+        [
+          "Data Science",
+          17
+        ],
+        [
+          "Machine Learning",
+          10
+        ],
+        [
+          "Azure",
+          9
+        ],
+        [
+          "Cloud",
+          9
+        ],
+        [
+          "Python",
+          8
+        ],
+        [
+          "Transformation",
+          8
+        ],
+        [
+          "Data Engineer",
+          7
+        ],
+        [
+          "Security",
+          7
+        ],
+        [
+          "Gcp",
+          7
+        ],
+        [
+          "Aws",
+          7
+        ]
+      ],
+      "avg_skills_per_job": 12.352941176470589
+    },
+    "Chile": {
+      "job_count": 7,
+      "top_skills": [
+        [
+          "Data Science",
+          7
+        ],
+        [
+          "Python",
+          6
+        ],
+        [
+          "Statistics",
+          5
+        ],
+        [
+          "Pandas",
+          4
+        ],
+        [
+          "Google Analytics",
+          4
+        ],
+        [
+          "Sql",
+          4
+        ],
+        [
+          "S3",
+          3
+        ],
+        [
+          "Ios",
+          3
+        ],
+        [
+          "Machine Learning",
+          3
+        ],
+        [
+          "Computer Science",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 14.571428571428571
+    },
+    "Hong Kong": {
+      "job_count": 10,
+      "top_skills": [
+        [
+          "Data Science",
+          10
+        ],
+        [
+          "S3",
+          6
+        ],
+        [
+          "Computer Science",
+          6
+        ],
+        [
+          "Google Analytics",
+          6
+        ],
+        [
+          "Architecture",
+          5
+        ],
+        [
+          "Python",
+          4
+        ],
+        [
+          "Databricks",
+          4
+        ],
+        [
+          "Sql",
+          4
+        ],
+        [
+          "Aws",
+          4
+        ],
+        [
+          "Security",
+          4
+        ]
+      ],
+      "avg_skills_per_job": 13.6
+    },
+    "Norway": {
+      "job_count": 10,
+      "top_skills": [
+        [
+          "Data Science",
+          10
+        ],
+        [
+          "Python",
+          7
+        ],
+        [
+          "Machine Learning",
+          7
+        ],
+        [
+          "Llms",
+          6
+        ],
+        [
+          "Computer Science",
+          5
+        ],
+        [
+          "Statistics",
+          5
+        ],
+        [
+          "Cloud",
+          5
+        ],
+        [
+          "Azure",
+          5
+        ],
+        [
+          "Mathematics",
+          5
+        ],
+        [
+          "Pytorch",
+          4
+        ]
+      ],
+      "avg_skills_per_job": 15.9
+    },
+    "Costa Rica": {
+      "job_count": 27,
+      "top_skills": [
+        [
+          "Data Science",
+          27
+        ],
+        [
+          "Sql",
+          24
+        ],
+        [
+          "Computer Science",
+          16
+        ],
+        [
+          "Tableau",
+          16
+        ],
+        [
+          "Python",
+          15
+        ],
+        [
+          "Statistics",
+          15
+        ],
+        [
+          "Mathematics",
+          14
+        ],
+        [
+          "Quantitative",
+          12
+        ],
+        [
+          "Machine Learning",
+          11
+        ],
+        [
+          "Data Analysis",
+          11
+        ]
+      ],
+      "avg_skills_per_job": 15.666666666666666
+    },
+    "Bangladesh": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Sagemaker",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Kubernetes",
+          1
+        ],
+        [
+          "Xgboost",
+          1
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Docker",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 29.0
+    },
+    "Finland": {
+      "job_count": 21,
+      "top_skills": [
+        [
+          "Data Science",
+          21
+        ],
+        [
+          "Statistics",
+          19
+        ],
+        [
+          "Product Development",
+          17
+        ],
+        [
+          "Ios",
+          12
+        ],
+        [
+          "Python",
+          12
+        ],
+        [
+          "Sql",
+          11
+        ],
+        [
+          "Machine Learning",
+          11
+        ],
+        [
+          "Tableau",
+          10
+        ],
+        [
+          "Mathematics",
+          9
+        ],
+        [
+          "Research",
+          9
+        ]
+      ],
+      "avg_skills_per_job": 12.142857142857142
+    },
+    "South Korea": {
+      "job_count": 18,
+      "top_skills": [
+        [
+          "Data Science",
+          18
+        ],
+        [
+          "Machine Learning",
+          17
+        ],
+        [
+          "Mathematics",
+          17
+        ],
+        [
+          "Python",
+          14
+        ],
+        [
+          "Ios",
+          12
+        ],
+        [
+          "Statistics",
+          12
+        ],
+        [
+          "Computer Science",
+          11
+        ],
+        [
+          "Big Data",
+          10
+        ],
+        [
+          "Data Analysis",
+          8
+        ],
+        [
+          "Infrastructure",
+          7
+        ]
+      ],
+      "avg_skills_per_job": 15.5
+    },
+    "Kenya": {
+      "job_count": 3,
+      "top_skills": [
+        [
+          "Data Science",
+          3
+        ],
+        [
+          "Machine Learning",
+          3
+        ],
+        [
+          "Security",
+          2
+        ],
+        [
+          "Generative Ai",
+          2
+        ],
+        [
+          "Research",
+          2
+        ],
+        [
+          "Ui",
+          1
+        ],
+        [
+          "Open Source",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Information Retrieval",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 12.666666666666666
+    },
+    "United Kingdom:Sweden": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "S3",
+          1
+        ],
+        [
+          "Rag",
+          1
+        ],
+        [
+          "Product Management",
+          1
+        ],
+        [
+          "Devops",
+          1
+        ],
+        [
+          "Transformation",
+          1
+        ],
+        [
+          "Research",
+          1
+        ],
+        [
+          "Llms",
+          1
+        ],
+        [
+          "Saas",
+          1
+        ],
+        [
+          "Google Analytics",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 10.0
+    },
+    "UK:Spain:France:Netherlands": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Gcp",
+          1
+        ],
+        [
+          "Aws",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Huggingface",
+          1
+        ],
+        [
+          "Rag",
+          1
+        ],
+        [
+          "Azure",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Langchain",
+          1
+        ],
+        [
+          "Ios",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 18.0
+    },
+    "U S.:Canada": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Sagemaker",
+          1
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Ios Sdk",
+          1
+        ],
+        [
+          "Ios",
+          1
+        ],
+        [
+          "Microservices",
+          1
+        ],
+        [
+          "Backend",
+          1
+        ],
+        [
+          "Research",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 24.0
+    },
+    "Cyprus": {
+      "job_count": 6,
+      "top_skills": [
+        [
+          "Data Science",
+          6
+        ],
+        [
+          "Python",
+          5
+        ],
+        [
+          "Machine Learning",
+          5
+        ],
+        [
+          "Statistics",
+          4
+        ],
+        [
+          "Sql",
+          4
+        ],
+        [
+          "Cloud",
+          4
+        ],
+        [
+          "Api",
+          4
+        ],
+        [
+          "Research",
+          4
+        ],
+        [
+          "Mathematics",
+          3
+        ],
+        [
+          "Data Engineer",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 19.333333333333332
+    },
+    "Taiwan": {
+      "job_count": 21,
+      "top_skills": [
+        [
+          "Data Science",
+          21
+        ],
+        [
+          "Python",
+          18
+        ],
+        [
+          "Machine Learning",
+          16
+        ],
+        [
+          "Research",
+          12
+        ],
+        [
+          "Big Data",
+          9
+        ],
+        [
+          "Automation",
+          8
+        ],
+        [
+          "Computer Science",
+          8
+        ],
+        [
+          "Llms",
+          8
+        ],
+        [
+          "Mathematics",
+          8
+        ],
+        [
+          "Statistics",
+          8
+        ]
+      ],
+      "avg_skills_per_job": 14.904761904761905
+    },
+    "Romania:Philippines": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Power Bi",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Ms Sql",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Infrastructure",
+          1
+        ],
+        [
+          "Automation",
+          1
+        ],
+        [
+          "Sql Server",
+          1
+        ],
+        [
+          "Data Engineer",
+          1
+        ],
+        [
+          "Data Collection",
+          1
+        ],
+        [
+          "Research",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 10.0
+    },
+    "Taiwan:Hong Kong:Thailand:Australia": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Redis",
+          1
+        ],
+        [
+          "Ruby On Rails",
+          1
+        ],
+        [
+          "Kubernetes",
+          1
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Openai",
+          1
+        ],
+        [
+          "Langchain",
+          1
+        ],
+        [
+          "Automation",
+          1
+        ],
+        [
+          "Docker",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 28.0
+    },
+    "Russia": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Airflow",
+          1
+        ],
+        [
+          "Bigquery",
+          1
+        ],
+        [
+          "Lightgbm",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Xgboost",
+          1
+        ],
+        [
+          "Huggingface",
+          1
+        ],
+        [
+          "Pattern Recognition",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 30.0
+    },
+    "Canada:United States": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Full Stack",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Forecasting",
+          1
+        ],
+        [
+          "Mathematics",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Product Design",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 14.0
+    },
+    "Europe": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "S3",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Rest",
+          1
+        ],
+        [
+          "Data Analysis",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Google Analytics",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 7.0
+    },
+    "North Macedonia": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Security",
+          2
+        ],
+        [
+          "Flow",
+          2
+        ],
+        [
+          "Architecture",
+          2
+        ],
+        [
+          "Data Infrastructure",
+          2
+        ],
+        [
+          "Cloud",
+          2
+        ],
+        [
+          "Transformation",
+          2
+        ],
+        [
+          "Data Engineer",
+          2
+        ],
+        [
+          "Big Data",
+          2
+        ],
+        [
+          "Machine Learning",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 20.0
+    },
+    "Taiwan:Thailand:Australia:Indonesia:Mexico:New Zealand:Philippines:Poland": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "S3",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Research",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Java",
+          1
+        ],
+        [
+          "Jax",
+          1
+        ],
+        [
+          "Reliability",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 17.0
+    },
+    "Lebanon": {
+      "job_count": 6,
+      "top_skills": [
+        [
+          "Data Science",
+          6
+        ],
+        [
+          "Computer Science",
+          4
+        ],
+        [
+          "Data Analysis",
+          4
+        ],
+        [
+          "Sql",
+          3
+        ],
+        [
+          "Research",
+          3
+        ],
+        [
+          "Machine Learning",
+          3
+        ],
+        [
+          "Statistics",
+          3
+        ],
+        [
+          "Python",
+          3
+        ],
+        [
+          "Power Bi",
+          2
+        ],
+        [
+          "Data Infrastructure",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 15.666666666666666
+    },
+    "Moldova": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Docker",
+          2
+        ],
+        [
+          "Api",
+          2
+        ],
+        [
+          "Cloud",
+          2
+        ],
+        [
+          "S3",
+          2
+        ],
+        [
+          "Azure",
+          2
+        ],
+        [
+          "Data Engineer",
+          2
+        ],
+        [
+          "Google Analytics",
+          2
+        ],
+        [
+          "Gcp",
+          2
+        ],
+        [
+          "Aws",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 27.0
+    },
+    "Uruguay:Colombia": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Ml Ops",
+          2
+        ],
+        [
+          "Kubernetes",
+          2
+        ],
+        [
+          "Gcp",
+          2
+        ],
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Aws",
+          2
+        ],
+        [
+          "Python",
+          2
+        ],
+        [
+          "Azure",
+          2
+        ],
+        [
+          "Langchain",
+          2
+        ],
+        [
+          "Snowflake",
+          2
+        ],
+        [
+          "Databricks",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 21.5
+    },
+    "Czechia": {
+      "job_count": 7,
+      "top_skills": [
+        [
+          "Data Science",
+          7
+        ],
+        [
+          "Python",
+          7
+        ],
+        [
+          "Airflow",
+          5
+        ],
+        [
+          "Cicd",
+          5
+        ],
+        [
+          "Aws",
+          5
+        ],
+        [
+          "Machine Learning",
+          5
+        ],
+        [
+          "Pytorch",
+          4
+        ],
+        [
+          "Cloud",
+          4
+        ],
+        [
+          "Tensorflow",
+          4
+        ],
+        [
+          "Ml Ops",
+          4
+        ]
+      ],
+      "avg_skills_per_job": 26.714285714285715
+    },
+    "Czechia:Slovakia": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Bigquery",
+          1
+        ],
+        [
+          "Clustering",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Information Retrieval",
+          1
+        ],
+        [
+          "Supervised Learning",
+          1
+        ],
+        [
+          "Transfer Learning",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 33.0
+    },
+    "Luxembourg": {
+      "job_count": 23,
+      "top_skills": [
+        [
+          "Data Science",
+          23
+        ],
+        [
+          "Python",
+          20
+        ],
+        [
+          "Infrastructure",
+          16
+        ],
+        [
+          "Machine Learning",
+          14
+        ],
+        [
+          "Agile",
+          12
+        ],
+        [
+          "Reliability",
+          11
+        ],
+        [
+          "Cloud",
+          11
+        ],
+        [
+          "Azure",
+          10
+        ],
+        [
+          "Transformation",
+          10
+        ],
+        [
+          "Automation",
+          9
+        ]
+      ],
+      "avg_skills_per_job": 18.782608695652176
+    },
+    "Tunisia": {
+      "job_count": 8,
+      "top_skills": [
+        [
+          "Data Science",
+          8
+        ],
+        [
+          "Python",
+          6
+        ],
+        [
+          "Computer Science",
+          6
+        ],
+        [
+          "Transformation",
+          5
+        ],
+        [
+          "Machine Learning",
+          5
+        ],
+        [
+          "Power Bi",
+          4
+        ],
+        [
+          "Sql",
+          4
+        ],
+        [
+          "Tableau",
+          4
+        ],
+        [
+          "Cloud",
+          4
+        ],
+        [
+          "Azure",
+          4
+        ]
+      ],
+      "avg_skills_per_job": 16.75
+    },
+    "Jordan": {
+      "job_count": 15,
+      "top_skills": [
+        [
+          "Data Science",
+          15
+        ],
+        [
+          "Machine Learning",
+          12
+        ],
+        [
+          "Statistics",
+          9
+        ],
+        [
+          "Llms",
+          9
+        ],
+        [
+          "Computer Science",
+          9
+        ],
+        [
+          "Big Data",
+          8
+        ],
+        [
+          "Product Management",
+          8
+        ],
+        [
+          "Data Engineer",
+          8
+        ],
+        [
+          "Quantitative",
+          8
+        ],
+        [
+          "Redshift",
+          8
+        ]
+      ],
+      "avg_skills_per_job": 18.066666666666666
+    },
+    "Australia:Thailand:Vietnam": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Deep Learning",
+          1
+        ],
+        [
+          "S3",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Reinforcement Learning",
+          1
+        ],
+        [
+          "C++",
+          1
+        ],
+        [
+          "Java",
+          1
+        ],
+        [
+          "Nlp",
+          1
+        ],
+        [
+          "Research",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 13.0
+    },
+    "Taiwan:Thailand:Australia:Indonesia": {
+      "job_count": 3,
+      "top_skills": [
+        [
+          "Data Science",
+          3
+        ],
+        [
+          "Security",
+          3
+        ],
+        [
+          "S3",
+          3
+        ],
+        [
+          "Machine Learning",
+          3
+        ],
+        [
+          "Computer Science",
+          3
+        ],
+        [
+          "Research",
+          3
+        ],
+        [
+          "Google Analytics",
+          3
+        ],
+        [
+          "Python",
+          2
+        ],
+        [
+          "Data",
+          2
+        ],
+        [
+          "Pytorch",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 16.0
+    },
+    "North America": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Salesforce",
+          1
+        ],
+        [
+          "Infrastructure",
+          1
+        ],
+        [
+          "Go",
+          1
+        ],
+        [
+          "Automation",
+          1
+        ],
+        [
+          "Rest",
+          1
+        ],
+        [
+          "Product Management",
+          1
+        ],
+        [
+          "Mathematics",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Json",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 13.0
+    },
+    "Gibraltar": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Gcp",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Aws",
+          1
+        ],
+        [
+          "Airflow",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Go",
+          1
+        ],
+        [
+          "Docker",
+          1
+        ],
+        [
+          "Gaming",
+          1
+        ],
+        [
+          "Data Engineer",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 16.0
+    },
+    "Cote d'Ivoire": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ],
+        [
+          "Product Development",
+          1
+        ],
+        [
+          "Quantitative",
+          1
+        ],
+        [
+          "Saas",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 6.0
+    },
+    "Guatemala": {
+      "job_count": 7,
+      "top_skills": [
+        [
+          "Data Science",
+          7
+        ],
+        [
+          "Sql",
+          7
+        ],
+        [
+          "Python",
+          7
+        ],
+        [
+          "Power Bi",
+          4
+        ],
+        [
+          "Operations Research",
+          4
+        ],
+        [
+          "Data Analysis",
+          4
+        ],
+        [
+          "Statistics",
+          4
+        ],
+        [
+          "Quantitative",
+          4
+        ],
+        [
+          "Tableau",
+          4
+        ],
+        [
+          "Bigquery",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 12.857142857142858
+    },
+    "Nepal": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Github",
+          2
+        ],
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Security",
+          2
+        ],
+        [
+          "Javascript",
+          2
+        ],
+        [
+          "Computer Science",
+          2
+        ],
+        [
+          "Sql",
+          2
+        ],
+        [
+          "Kubernetes",
+          2
+        ],
+        [
+          "Docker",
+          2
+        ],
+        [
+          "Backend",
+          2
+        ],
+        [
+          "Ux",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 29.0
+    },
+    "Georgia": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Airflow",
+          2
+        ],
+        [
+          "Slack",
+          2
+        ],
+        [
+          "Salesforce",
+          2
+        ],
+        [
+          "Hive",
+          2
+        ],
+        [
+          "Transformation",
+          2
+        ],
+        [
+          "Python",
+          2
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Data Architect",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 18.0
+    },
+    "Canada:USA": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Open Source",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "React",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Saas",
+          1
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Transformers",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 23.0
+    },
+    "Poland:Croatia:Germany": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "S3",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Ux",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Reliability",
+          1
+        ],
+        [
+          "Computer Vision",
+          1
+        ],
+        [
+          "Nlp",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Information Retrieval",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 12.0
+    },
+    "United Kingdom:Gibraltar": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Exploration",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Airflow",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Docker",
+          1
+        ],
+        [
+          "Gaming",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ],
+        [
+          "Data Collection",
+          1
+        ],
+        [
+          "Research",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 19.0
+    },
+    "Bosnia:Serbia": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Airflow",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Kubernetes",
+          1
+        ],
+        [
+          "Data Infrastructure",
+          1
+        ],
+        [
+          "Java",
+          1
+        ],
+        [
+          "Automation",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 26.0
+    },
+    "United States:United Kingdom": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Flow",
+          1
+        ],
+        [
+          "Ios",
+          1
+        ],
+        [
+          "Data Integrations",
+          1
+        ],
+        [
+          "Database",
+          1
+        ],
+        [
+          "Mathematics",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Project Management",
+          1
+        ],
+        [
+          "Sme",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 10.0
+    },
+    "Slovakia": {
+      "job_count": 6,
+      "top_skills": [
+        [
+          "Data Science",
+          6
+        ],
+        [
+          "Power Bi",
+          5
+        ],
+        [
+          "Data Analysis",
+          5
+        ],
+        [
+          "Statistics",
+          4
+        ],
+        [
+          "Machine Learning",
+          4
+        ],
+        [
+          "Computer Science",
+          4
+        ],
+        [
+          "Product Development",
+          3
+        ],
+        [
+          "Sql",
+          3
+        ],
+        [
+          "Data Engineer",
+          3
+        ],
+        [
+          "Python",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 13.5
+    },
+    "Canada: United States": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Sme",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Flow",
+          1
+        ],
+        [
+          "Ios",
+          1
+        ],
+        [
+          "Data Integrations",
+          1
+        ],
+        [
+          "Database",
+          1
+        ],
+        [
+          "Mathematics",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Project Management",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 11.0
+    },
+    "Canada: United Kingdom": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Sme",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Forecasting",
+          1
+        ],
+        [
+          "Flow",
+          1
+        ],
+        [
+          "Ios",
+          1
+        ],
+        [
+          "Data Integrations",
+          1
+        ],
+        [
+          "Database",
+          1
+        ],
+        [
+          "Mathematics",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 13.0
+    },
+    "United States": {
+      "job_count": 94,
+      "top_skills": [
+        [
+          "Data Science",
+          94
+        ],
+        [
+          "Json",
+          85
+        ],
+        [
+          "Mathematics",
+          84
+        ],
+        [
+          "Python",
+          69
+        ],
+        [
+          "Machine Learning",
+          61
+        ],
+        [
+          "Computer Science",
+          53
+        ],
+        [
+          "Sql",
+          42
+        ],
+        [
+          "Statistics",
+          41
+        ],
+        [
+          "Cloud",
+          32
+        ],
+        [
+          "Research",
+          31
+        ]
+      ],
+      "avg_skills_per_job": 17.627659574468087
+    },
+    "United States of America": {
+      "job_count": 3,
+      "top_skills": [
+        [
+          "Data Science",
+          3
+        ],
+        [
+          "Json",
+          3
+        ],
+        [
+          "Computer Science",
+          3
+        ],
+        [
+          "Mathematics",
+          3
+        ],
+        [
+          "Distributed Systems",
+          2
+        ],
+        [
+          "Airflow",
+          2
+        ],
+        [
+          "Research",
+          2
+        ],
+        [
+          "Redshift",
+          2
+        ],
+        [
+          "Big Data",
+          2
+        ],
+        [
+          "Cloud",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 27.0
+    },
+    "Hungary: Lithuania: Poland": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Github",
+          2
+        ],
+        [
+          "Pytorch",
+          2
+        ],
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Json",
+          2
+        ],
+        [
+          "Computer Science",
+          2
+        ],
+        [
+          "Ios",
+          2
+        ],
+        [
+          "Generative Ai",
+          2
+        ],
+        [
+          "Pandas",
+          2
+        ],
+        [
+          "Docker",
+          2
+        ],
+        [
+          "Microservices",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 27.0
+    },
+    "Spain: Brazil: Uruguay": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Ml Ops",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Anomaly Detection",
+          1
+        ],
+        [
+          "S3",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Go",
+          1
+        ],
+        [
+          "Reliability",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Microservices",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 15.0
+    },
+    "Hungary: Lithuania: Poland: Romania": {
+      "job_count": 3,
+      "top_skills": [
+        [
+          "Data Science",
+          3
+        ],
+        [
+          "Javascript",
+          3
+        ],
+        [
+          "Python",
+          3
+        ],
+        [
+          "Machine Learning",
+          3
+        ],
+        [
+          "Numpy",
+          3
+        ],
+        [
+          "Generative Ai",
+          3
+        ],
+        [
+          "Pandas",
+          3
+        ],
+        [
+          "Data Analysis",
+          3
+        ],
+        [
+          "Databricks",
+          3
+        ],
+        [
+          "Computer Science",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 17.666666666666668
+    },
+    "[ ]": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Open Source",
+          1
+        ],
+        [
+          "Automation",
+          1
+        ],
+        [
+          "Mathematics",
+          1
+        ],
+        [
+          "Generative Ai",
+          1
+        ],
+        [
+          "Computer Vision",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Product Design",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 15.0
+    },
+    "Australia: New Zealand: Philippines: Thailand: UAE: Vietnam": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Anomaly Detection",
+          1
+        ],
+        [
+          "Java",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ],
+        [
+          "Research",
+          1
+        ],
+        [
+          "Tensorflow",
+          1
+        ],
+        [
+          "S3",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 19.0
+    },
+    "Korea": {
+      "job_count": 4,
+      "top_skills": [
+        [
+          "Data Science",
+          4
+        ],
+        [
+          "Big Data",
+          2
+        ],
+        [
+          "Saas",
+          2
+        ],
+        [
+          "Data Engineer",
+          2
+        ],
+        [
+          "Cloud",
+          2
+        ],
+        [
+          "Security",
+          2
+        ],
+        [
+          "Machine Learning",
+          2
+        ],
+        [
+          "Computer Science",
+          2
+        ],
+        [
+          "Data Architect",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 13.0
+    },
+    "Georgia: Hungary: Lithuania: Poland: Romania": {
+      "job_count": 3,
+      "top_skills": [
+        [
+          "Github",
+          3
+        ],
+        [
+          "Data Science",
+          3
+        ],
+        [
+          "Json",
+          3
+        ],
+        [
+          "Computer Science",
+          3
+        ],
+        [
+          "Generative Ai",
+          3
+        ],
+        [
+          "Pandas",
+          3
+        ],
+        [
+          "Docker",
+          3
+        ],
+        [
+          "Microservices",
+          3
+        ],
+        [
+          "Research",
+          3
+        ],
+        [
+          "Cloud",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 23.666666666666668
+    },
+    "Ireland: Netherlands: Portugal: United Kingdom": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Slack",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Sagemaker",
+          1
+        ],
+        [
+          "Embeddings",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Saas",
+          1
+        ],
+        [
+          "Data Infrastructure",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 27.0
+    },
+    "Ireland: Netherlands: Portugal: Spain: United Kingdom": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Github",
+          1
+        ],
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Data Exploration",
+          1
+        ],
+        [
+          "Slack",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Embeddings",
+          1
+        ],
+        [
+          "Quantitative",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Looker",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 37.0
+    },
+    "Latin America": {
+      "job_count": 6,
+      "top_skills": [
+        [
+          "Data Science",
+          6
+        ],
+        [
+          "Computer Science",
+          6
+        ],
+        [
+          "Salesforce",
+          4
+        ],
+        [
+          "Snowflake",
+          4
+        ],
+        [
+          "Data Engineer",
+          4
+        ],
+        [
+          "Databricks",
+          4
+        ],
+        [
+          "Sql",
+          3
+        ],
+        [
+          "Azure",
+          3
+        ],
+        [
+          "Machine Learning",
+          3
+        ],
+        [
+          "Github",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 13.666666666666666
+    },
+    "Poland:Portugal": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Ml Scientist",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Quantitative",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Generative Ai",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 23.0
+    },
+    "Thailand: Australia: Indonesia": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Quantitative",
+          1
+        ],
+        [
+          "Nlu",
+          1
+        ],
+        [
+          "Transformers",
+          1
+        ],
+        [
+          "Java",
+          1
+        ],
+        [
+          "Langchain",
+          1
+        ],
+        [
+          "Ios",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 22.0
+    },
+    "Mauritius": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Cicd",
+          2
+        ],
+        [
+          "Python",
+          2
+        ],
+        [
+          "Machine Learning",
+          2
+        ],
+        [
+          "Cloud",
+          2
+        ],
+        [
+          "Github",
+          1
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Aws",
+          1
+        ],
+        [
+          "Openai",
+          1
+        ],
+        [
+          "Dynamodb",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 21.0
+    },
+    "Maroc": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Agile",
+          1
+        ],
+        [
+          "Power Bi",
+          1
+        ],
+        [
+          "Big Data",
+          1
+        ],
+        [
+          "Sme",
+          1
+        ],
+        [
+          "Hadoop",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "R",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Transformers",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 10.0
+    },
+    "Brazil:Ecuador:Colombia:Chile:Uruguay:Mexico": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Power Bi",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "S3",
+          1
+        ],
+        [
+          "R",
+          1
+        ],
+        [
+          "Agile",
+          1
+        ],
+        [
+          "Automation",
+          1
+        ],
+        [
+          "Docker",
+          1
+        ],
+        [
+          "Data Analysis",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 13.0
+    },
+    "Croatia:Ukraine": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Exploration",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "S3",
+          1
+        ],
+        [
+          "Rag",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Data Modelling",
+          1
+        ],
+        [
+          "Generative Ai",
+          1
+        ],
+        [
+          "Nlp",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 12.0
+    },
+    "Greece: Spain": {
+      "job_count": 4,
+      "top_skills": [
+        [
+          "Data Science",
+          4
+        ],
+        [
+          "Python",
+          4
+        ],
+        [
+          "Machine Learning",
+          4
+        ],
+        [
+          "Mathematics",
+          4
+        ],
+        [
+          "Json",
+          4
+        ],
+        [
+          "Data Engineer",
+          4
+        ],
+        [
+          "Tableau",
+          4
+        ],
+        [
+          "Airflow",
+          3
+        ],
+        [
+          "Mlflow",
+          3
+        ],
+        [
+          "Infrastructure",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 14.25
+    },
+    "Slovenia": {
+      "job_count": 13,
+      "top_skills": [
+        [
+          "Data Science",
+          13
+        ],
+        [
+          "Machine Learning",
+          13
+        ],
+        [
+          "Python",
+          12
+        ],
+        [
+          "Computer Science",
+          10
+        ],
+        [
+          "Statistics",
+          9
+        ],
+        [
+          "Apache",
+          9
+        ],
+        [
+          "Deployment",
+          9
+        ],
+        [
+          "Data Analysis",
+          8
+        ],
+        [
+          "Sql",
+          8
+        ],
+        [
+          "Linux",
+          7
+        ]
+      ],
+      "avg_skills_per_job": 19.923076923076923
+    },
+    "United Kingdom": {
+      "job_count": 6,
+      "top_skills": [
+        [
+          "Data Science",
+          6
+        ],
+        [
+          "Cloud",
+          4
+        ],
+        [
+          "Python",
+          4
+        ],
+        [
+          "Data Engineer",
+          4
+        ],
+        [
+          "Machine Learning",
+          3
+        ],
+        [
+          "Security",
+          3
+        ],
+        [
+          "Forecasting",
+          2
+        ],
+        [
+          "Ios",
+          2
+        ],
+        [
+          "Cicd",
+          2
+        ],
+        [
+          "Aws",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 12.833333333333334
+    },
+    "Spain: Greece": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Kubernetes",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Aws",
+          1
+        ],
+        [
+          "Cicd",
+          1
+        ],
+        [
+          "Airflow",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Java",
+          1
+        ],
+        [
+          "Product Management",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 17.0
+    },
+    "Malta": {
+      "job_count": 5,
+      "top_skills": [
+        [
+          "Data Science",
+          5
+        ],
+        [
+          "Aws",
+          5
+        ],
+        [
+          "Infrastructure",
+          5
+        ],
+        [
+          "Gaming",
+          5
+        ],
+        [
+          "Data Engineer",
+          5
+        ],
+        [
+          "Python",
+          3
+        ],
+        [
+          "Big Data",
+          3
+        ],
+        [
+          "Machine Learning",
+          3
+        ],
+        [
+          "Mathematics",
+          3
+        ],
+        [
+          "Computer Science",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 14.2
+    },
+    "Latvia": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Computer Science",
+          2
+        ],
+        [
+          "Confluence",
+          2
+        ],
+        [
+          "Kubernetes",
+          2
+        ],
+        [
+          "Jenkins",
+          2
+        ],
+        [
+          "Scrum",
+          2
+        ],
+        [
+          "Agile",
+          2
+        ],
+        [
+          "Java",
+          2
+        ],
+        [
+          "Docker",
+          2
+        ],
+        [
+          "Gaming",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 27.0
+    },
+    "Czechia: United Kingdom": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Redis",
+          1
+        ],
+        [
+          "Spring Boot",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Java",
+          1
+        ],
+        [
+          "Docker",
+          1
+        ],
+        [
+          "Gaming",
+          1
+        ],
+        [
+          "Backend",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 19.0
+    },
+    "Czechia:United Kingdom": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Javascript",
+          1
+        ],
+        [
+          "Typescript",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Redis",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Docker",
+          1
+        ],
+        [
+          "Gaming",
+          1
+        ],
+        [
+          "Backend",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 20.0
+    },
+    "Nigeria": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Power Bi",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "R",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Data Mining",
+          1
+        ],
+        [
+          "Go",
+          1
+        ],
+        [
+          "Looker",
+          1
+        ],
+        [
+          "Mathematics",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 14.0
+    },
+    "Isle of Man": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Arm",
+          2
+        ],
+        [
+          "Power Bi",
+          1
+        ],
+        [
+          "Data Mining",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Infrastructure",
+          1
+        ],
+        [
+          "Database",
+          1
+        ],
+        [
+          "Data Analysis",
+          1
+        ],
+        [
+          "Data Architect",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 7.5
+    },
+    "Canada:United Kingdom": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Json",
+          2
+        ],
+        [
+          "Computer Science",
+          2
+        ],
+        [
+          "Quantitative",
+          2
+        ],
+        [
+          "Scipy",
+          2
+        ],
+        [
+          "Testing",
+          2
+        ],
+        [
+          "Forecasting",
+          2
+        ],
+        [
+          "Pandas",
+          2
+        ],
+        [
+          "Streamlit",
+          2
+        ],
+        [
+          "Database",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 28.0
+    },
+    "Puerto Rico": {
+      "job_count": 4,
+      "top_skills": [
+        [
+          "Data Science",
+          4
+        ],
+        [
+          "Python",
+          4
+        ],
+        [
+          "Statistics",
+          4
+        ],
+        [
+          "R",
+          3
+        ],
+        [
+          "Http",
+          3
+        ],
+        [
+          "Database",
+          3
+        ],
+        [
+          "Computer Science",
+          3
+        ],
+        [
+          "Project Management",
+          3
+        ],
+        [
+          "Architecture",
+          3
+        ],
+        [
+          "Sql",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 10.25
+    },
+    "Belarus": {
+      "job_count": 4,
+      "top_skills": [
+        [
+          "Data Science",
+          4
+        ],
+        [
+          "Research",
+          3
+        ],
+        [
+          "Statistics",
+          3
+        ],
+        [
+          "Python",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 2.75
+    },
+    "United Kingdom:Germany:Netherlands": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Github",
+          1
+        ],
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Javascript",
+          1
+        ],
+        [
+          "Open Source",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "React",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Kubernetes",
+          1
+        ],
+        [
+          "Forecasting",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 34.0
+    },
+    "United Kingdom: Germany: Netherlands": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Javascript",
+          1
+        ],
+        [
+          "Ui",
+          1
+        ],
+        [
+          "Open Source",
+          1
+        ],
+        [
+          "Json",
+          1
+        ],
+        [
+          "React",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Ios",
+          1
+        ],
+        [
+          "Generative Ai",
+          1
+        ],
+        [
+          "Backend",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 21.0
+    },
+    "Bosnia and Herzegovina": {
+      "job_count": 9,
+      "top_skills": [
+        [
+          "Data Science",
+          9
+        ],
+        [
+          "Data Engineer",
+          8
+        ],
+        [
+          "Architecture",
+          8
+        ],
+        [
+          "Gcp",
+          8
+        ],
+        [
+          "Python",
+          7
+        ],
+        [
+          "Cloud",
+          7
+        ],
+        [
+          "Azure",
+          7
+        ],
+        [
+          "Aws",
+          7
+        ],
+        [
+          "Power Bi",
+          6
+        ],
+        [
+          "Tableau",
+          6
+        ]
+      ],
+      "avg_skills_per_job": 27.11111111111111
+    },
+    "Namibia": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Power Bi",
+          2
+        ],
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Python",
+          2
+        ],
+        [
+          "Machine Learning",
+          2
+        ],
+        [
+          "Data Analysis",
+          2
+        ],
+        [
+          "Computer Science",
+          2
+        ],
+        [
+          "Statistics",
+          2
+        ],
+        [
+          "Project Management",
+          2
+        ],
+        [
+          "Sql",
+          2
+        ],
+        [
+          "Tableau",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 10.0
+    },
+    "Spain: Hungary: Poland: Italy": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Rag",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Generative Ai",
+          1
+        ],
+        [
+          "Nlp",
+          1
+        ],
+        [
+          "Data Analysis",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Transformation",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 16.0
+    },
+    "Ghana": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Big Data",
+          2
+        ],
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Aws",
+          2
+        ],
+        [
+          "Hadoop",
+          2
+        ],
+        [
+          "Python",
+          2
+        ],
+        [
+          "Scrum",
+          2
+        ],
+        [
+          "Agile",
+          2
+        ],
+        [
+          "Java",
+          2
+        ],
+        [
+          "Database",
+          2
+        ],
+        [
+          "Scala",
+          2
+        ]
+      ],
+      "avg_skills_per_job": 15.0
+    },
+    "Algeria": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Machine Learning",
+          2
+        ],
+        [
+          "Google Analytics",
+          2
+        ],
+        [
+          "Product Management",
+          2
+        ],
+        [
+          "Computer Science",
+          2
+        ],
+        [
+          "Transformation",
+          2
+        ],
+        [
+          "Infrastructure",
+          2
+        ],
+        [
+          "Training Data",
+          1
+        ],
+        [
+          "S3",
+          1
+        ],
+        [
+          "Python",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 13.0
+    },
+    "Germany: Hungary": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Agile",
+          1
+        ],
+        [
+          "Operations Research",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Project Management",
+          1
+        ],
+        [
+          "Quantitative",
+          1
+        ],
+        [
+          "Deployment",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 7.0
+    },
+    "United Kingdom:Vietnam:Australia:Austria:China:Korea:Denmark:France:Germany:Hungary:India:Indonesia:Italy:Japan:Mexico:Netherlands:Philippines:Poland:Portugal:Russia:Singapore:South Africa:Sp": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Mba",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Deep Learning",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "International Relations",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "C++",
+          1
+        ],
+        [
+          "Operations Research",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 13.0
+    },
+    "FR": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Ios",
+          2
+        ],
+        [
+          "Research",
+          2
+        ],
+        [
+          "Python",
+          2
+        ],
+        [
+          "Machine Learning",
+          2
+        ],
+        [
+          "Github",
+          1
+        ],
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Numba",
+          1
+        ],
+        [
+          "Transformers",
+          1
+        ],
+        [
+          "Automation",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 18.0
+    },
+    "USA:Germany:Argentina:Colombia:Canada": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Airflow",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Testing",
+          1
+        ],
+        [
+          "Ios",
+          1
+        ],
+        [
+          "Automation",
+          1
+        ],
+        [
+          "Gaming",
+          1
+        ],
+        [
+          "Debugging",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 21.0
+    },
+    "ZA": {
+      "job_count": 7,
+      "top_skills": [
+        [
+          "Data Science",
+          7
+        ],
+        [
+          "Python",
+          6
+        ],
+        [
+          "Agile",
+          6
+        ],
+        [
+          "Computer Science",
+          6
+        ],
+        [
+          "Ios",
+          4
+        ],
+        [
+          "Sql",
+          4
+        ],
+        [
+          "Mathematics",
+          4
+        ],
+        [
+          "Statistics",
+          4
+        ],
+        [
+          "Research",
+          4
+        ],
+        [
+          "Big Data",
+          3
+        ]
+      ],
+      "avg_skills_per_job": 18.0
+    },
+    "Panama": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Full Stack",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Software Design",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ],
+        [
+          "Tensorflow",
+          1
+        ],
+        [
+          "Google Analytics",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 8.0
+    },
+    "Honduras": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Pytorch",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Full Stack",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Software Design",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ],
+        [
+          "Tensorflow",
+          1
+        ],
+        [
+          "Google Analytics",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 8.0
+    },
+    "United States:Netherlands": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Scrum",
+          1
+        ],
+        [
+          "Data Mining",
+          1
+        ],
+        [
+          "Agile",
+          1
+        ],
+        [
+          "Java",
+          1
+        ],
+        [
+          "Product Development",
+          1
+        ],
+        [
+          "Redshift",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 23.0
+    },
+    "CA US": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Security",
+          1
+        ],
+        [
+          "Airflow",
+          1
+        ],
+        [
+          "Flow",
+          1
+        ],
+        [
+          "React",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Architecture",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ],
+        [
+          "Elasticsearch",
+          1
+        ],
+        [
+          "Kubernetes",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 29.0
+    },
+    "CY": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Typescript",
+          1
+        ],
+        [
+          "Aws",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Kotlin",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Java",
+          1
+        ],
+        [
+          "Go",
+          1
+        ],
+        [
+          "Docker",
+          1
+        ],
+        [
+          "Grafana",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 15.0
+    },
+    "AR": {
+      "job_count": 2,
+      "top_skills": [
+        [
+          "Data Science",
+          2
+        ],
+        [
+          "Data Analysis",
+          2
+        ],
+        [
+          "Tableau",
+          2
+        ],
+        [
+          "Data Infrastructure",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Data Engineer",
+          1
+        ],
+        [
+          "Data Governance",
+          1
+        ],
+        [
+          "Flow",
+          1
+        ],
+        [
+          "Mathematics",
+          1
+        ],
+        [
+          "Data Architect",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 9.0
+    },
+    "UA": {
+      "job_count": 4,
+      "top_skills": [
+        [
+          "Data Science",
+          4
+        ],
+        [
+          "Python",
+          4
+        ],
+        [
+          "Machine Learning",
+          4
+        ],
+        [
+          "Mathematics",
+          2
+        ],
+        [
+          "Data Analysis",
+          2
+        ],
+        [
+          "Computer Science",
+          2
+        ],
+        [
+          "Data Engineer",
+          2
+        ],
+        [
+          "Postgres",
+          2
+        ],
+        [
+          "Sql",
+          2
+        ],
+        [
+          "Product Design",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 12.5
+    },
+    "CA": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Mba",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Business Administration",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Agile",
+          1
+        ],
+        [
+          "Hive",
+          1
+        ],
+        [
+          "Data Analysis",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Statistics",
+          1
+        ],
+        [
+          "Sql",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 11.0
+    },
+    "IT": {
+      "job_count": 1,
+      "top_skills": [
+        [
+          "Unsupervised Learning",
+          1
+        ],
+        [
+          "Power Bi",
+          1
+        ],
+        [
+          "Data Science",
+          1
+        ],
+        [
+          "Anomaly Detection",
+          1
+        ],
+        [
+          "Dimensionality Reduction",
+          1
+        ],
+        [
+          "Python",
+          1
+        ],
+        [
+          "Clustering",
+          1
+        ],
+        [
+          "Machine Learning",
+          1
+        ],
+        [
+          "Computer Science",
+          1
+        ],
+        [
+          "Ci",
+          1
+        ]
+      ],
+      "avg_skills_per_job": 14.0
+    }
+  },
+  "title_correlations": [
+    {
+      "programming": {
+        "title_1_jobs_percentage": 0,
+        "title_2_jobs_percentage": 0,
+        "difference": 0
+      },
+      "ml frameworks": {
+        "title_1_jobs_percentage": 0,
+        "title_2_jobs_percentage": 0,
+        "difference": 0
+      },
+      "big data": {
+        "title_1_jobs_percentage": 0,
+        "title_2_jobs_percentage": 0,
+        "difference": 0
+      },
+      "cloud": {
+        "title_1_jobs_percentage": 0,
+        "title_2_jobs_percentage": 0,
+        "difference": 0
+      },
+      "visualization": {
+        "title_1_jobs_percentage": 0,
+        "title_2_jobs_percentage": 0,
+        "difference": 0
+      },
+      "statistics": {
+        "title_1_jobs_percentage": 0,
+        "title_2_jobs_percentage": 0,
+        "difference": 0
+      },
+      "ml techniques": {
+        "title_1_jobs_percentage": 0,
+        "title_2_jobs_percentage": 0,
+        "difference": 0
+      }
+    },
+    "",
+    ""
+  ],
+  "temporal_trends": {
+    "2023-10": {
+      "job_count": 24,
+      "top_skills": [
+        [
+          "Data Science",
+          24
+        ],
+        [
+          "Python",
+          19
+        ],
+        [
+          "Machine Learning",
+          19
+        ],
+        [
+          "Sql",
+          12
+        ],
+        [
+          "Google Analytics",
+          10
+        ]
+      ],
+      "total_skills_mentioned": 354
+    },
+    "2023-11": {
+      "job_count": 126,
+      "top_skills": [
+        [
+          "Data Science",
+          126
+        ],
+        [
+          "Machine Learning",
+          96
+        ],
+        [
+          "Python",
+          76
+        ],
+        [
+          "Computer Science",
+          70
+        ],
+        [
+          "Data Engineer",
+          53
+        ]
+      ],
+      "total_skills_mentioned": 2119
+    },
+    "2023-12": {
+      "job_count": 5,
+      "top_skills": [
+        [
+          "Data Science",
+          5
+        ],
+        [
+          "Machine Learning",
+          5
+        ],
+        [
+          "Computer Science",
+          4
+        ],
+        [
+          "Go",
+          3
+        ],
+        [
+          "Product Management",
+          3
+        ]
+      ],
+      "total_skills_mentioned": 55
+    },
+    "2024-01": {
+      "job_count": 9,
+      "top_skills": [
+        [
+          "Data Science",
+          9
+        ],
+        [
+          "Machine Learning",
+          8
+        ],
+        [
+          "Pytorch",
+          7
+        ],
+        [
+          "Tensorflow",
+          7
+        ],
+        [
+          "Statistics",
+          7
+        ]
+      ],
+      "total_skills_mentioned": 110
+    },
+    "2024-02": {
+      "job_count": 72,
+      "top_skills": [
+        [
+          "Data Science",
+          72
+        ],
+        [
+          "Machine Learning",
+          60
+        ],
+        [
+          "Computer Science",
+          48
+        ],
+        [
+          "Python",
+          33
+        ],
+        [
+          "Cloud",
+          31
+        ]
+      ],
+      "total_skills_mentioned": 1098
+    },
+    "2024-04": {
+      "job_count": 69,
+      "top_skills": [
+        [
+          "Data Science",
+          69
+        ],
+        [
+          "Machine Learning",
+          63
+        ],
+        [
+          "Computer Science",
+          52
+        ],
+        [
+          "Python",
+          50
+        ],
+        [
+          "Statistics",
+          37
+        ]
+      ],
+      "total_skills_mentioned": 1313
+    },
+    "2024-05": {
+      "job_count": 24,
+      "top_skills": [
+        [
+          "Data Science",
+          24
+        ],
+        [
+          "Python",
+          24
+        ],
+        [
+          "Machine Learning",
+          23
+        ],
+        [
+          "Aws",
+          18
+        ],
+        [
+          "Cicd",
+          17
+        ]
+      ],
+      "total_skills_mentioned": 504
+    },
+    "2024-06": {
+      "job_count": 54,
+      "top_skills": [
+        [
+          "Data Science",
+          54
+        ],
+        [
+          "Machine Learning",
+          44
+        ],
+        [
+          "Python",
+          31
+        ],
+        [
+          "Computer Science",
+          27
+        ],
+        [
+          "Statistics",
+          24
+        ]
+      ],
+      "total_skills_mentioned": 916
+    },
+    "2024-07": {
+      "job_count": 200,
+      "top_skills": [
+        [
+          "Data Science",
+          200
+        ],
+        [
+          "Machine Learning",
+          145
+        ],
+        [
+          "Python",
+          142
+        ],
+        [
+          "Computer Science",
+          106
+        ],
+        [
+          "Statistics",
+          92
+        ]
+      ],
+      "total_skills_mentioned": 3330
+    },
+    "2024-08": {
+      "job_count": 350,
+      "top_skills": [
+        [
+          "Data Science",
+          350
+        ],
+        [
+          "Python",
+          235
+        ],
+        [
+          "Machine Learning",
+          206
+        ],
+        [
+          "Sql",
+          172
+        ],
+        [
+          "Computer Science",
+          158
+        ]
+      ],
+      "total_skills_mentioned": 5070
+    },
+    "2024-09": {
+      "job_count": 354,
+      "top_skills": [
+        [
+          "Data Science",
+          354
+        ],
+        [
+          "Python",
+          242
+        ],
+        [
+          "Machine Learning",
+          230
+        ],
+        [
+          "Statistics",
+          153
+        ],
+        [
+          "Computer Science",
+          142
+        ]
+      ],
+      "total_skills_mentioned": 5353
+    },
+    "2024-10": {
+      "job_count": 522,
+      "top_skills": [
+        [
+          "Data Science",
+          522
+        ],
+        [
+          "Python",
+          365
+        ],
+        [
+          "Machine Learning",
+          326
+        ],
+        [
+          "Computer Science",
+          232
+        ],
+        [
+          "Sql",
+          207
+        ]
+      ],
+      "total_skills_mentioned": 7742
+    },
+    "2024-11": {
+      "job_count": 425,
+      "top_skills": [
+        [
+          "Data Science",
+          425
+        ],
+        [
+          "Python",
+          282
+        ],
+        [
+          "Machine Learning",
+          273
+        ],
+        [
+          "Computer Science",
+          201
+        ],
+        [
+          "Statistics",
+          183
+        ]
+      ],
+      "total_skills_mentioned": 6469
+    },
+    "2024-12": {
+      "job_count": 340,
+      "top_skills": [
+        [
+          "Data Science",
+          340
+        ],
+        [
+          "Python",
+          224
+        ],
+        [
+          "Machine Learning",
+          214
+        ],
+        [
+          "Computer Science",
+          186
+        ],
+        [
+          "Sql",
+          148
+        ]
+      ],
+      "total_skills_mentioned": 5376
+    },
+    "2025-01": {
+      "job_count": 582,
+      "top_skills": [
+        [
+          "Data Science",
+          582
+        ],
+        [
+          "Python",
+          391
+        ],
+        [
+          "Machine Learning",
+          355
+        ],
+        [
+          "Sql",
+          278
+        ],
+        [
+          "Computer Science",
+          249
+        ]
+      ],
+      "total_skills_mentioned": 8786
+    },
+    "2025-02": {
+      "job_count": 531,
+      "top_skills": [
+        [
+          "Data Science",
+          531
+        ],
+        [
+          "Python",
+          377
+        ],
+        [
+          "Machine Learning",
+          344
+        ],
+        [
+          "Sql",
+          265
+        ],
+        [
+          "Computer Science",
+          218
+        ]
+      ],
+      "total_skills_mentioned": 8121
+    },
+    "2025-03": {
+      "job_count": 578,
+      "top_skills": [
+        [
+          "Data Science",
+          578
+        ],
+        [
+          "Python",
+          402
+        ],
+        [
+          "Machine Learning",
+          377
+        ],
+        [
+          "Computer Science",
+          263
+        ],
+        [
+          "Sql",
+          262
+        ]
+      ],
+      "total_skills_mentioned": 8642
+    },
+    "2025-04": {
+      "job_count": 683,
+      "top_skills": [
+        [
+          "Data Science",
+          683
+        ],
+        [
+          "Python",
+          473
+        ],
+        [
+          "Machine Learning",
+          457
+        ],
+        [
+          "Sql",
+          316
+        ],
+        [
+          "Computer Science",
+          304
+        ]
+      ],
+      "total_skills_mentioned": 10737
+    },
+    "2025-05": {
+      "job_count": 732,
+      "top_skills": [
+        [
+          "Data Science",
+          732
+        ],
+        [
+          "Python",
+          514
+        ],
+        [
+          "Machine Learning",
+          486
+        ],
+        [
+          "Sql",
+          344
+        ],
+        [
+          "Computer Science",
+          342
+        ]
+      ],
+      "total_skills_mentioned": 12211
+    },
+    "2025-06": {
+      "job_count": 878,
+      "top_skills": [
+        [
+          "Data Science",
+          878
+        ],
+        [
+          "Python",
+          576
+        ],
+        [
+          "Machine Learning",
+          541
+        ],
+        [
+          "Computer Science",
+          375
+        ],
+        [
+          "Sql",
+          369
+        ]
+      ],
+      "total_skills_mentioned": 13709
+    },
+    "2025-07": {
+      "job_count": 1245,
+      "top_skills": [
+        [
+          "Data Science",
+          1245
+        ],
+        [
+          "Python",
+          909
+        ],
+        [
+          "Machine Learning",
+          817
+        ],
+        [
+          "Computer Science",
+          577
+        ],
+        [
+          "Sql",
+          552
+        ]
+      ],
+      "total_skills_mentioned": 20739
+    },
+    "2025-08": {
+      "job_count": 1558,
+      "top_skills": [
+        [
+          "Data Science",
+          1558
+        ],
+        [
+          "Python",
+          1087
+        ],
+        [
+          "Machine Learning",
+          1006
+        ],
+        [
+          "Computer Science",
+          808
+        ],
+        [
+          "Statistics",
+          647
+        ]
+      ],
+      "total_skills_mentioned": 25551
+    },
+    "2025-09": {
+      "job_count": 2227,
+      "top_skills": [
+        [
+          "Data Science",
+          2227
+        ],
+        [
+          "Python",
+          1556
+        ],
+        [
+          "Machine Learning",
+          1409
+        ],
+        [
+          "Computer Science",
+          1191
+        ],
+        [
+          "Statistics",
+          993
+        ]
+      ],
+      "total_skills_mentioned": 36874
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "summary_date": "2025-09-24T18:18:06.331041",
+  "key_findings": {
+    "total_jobs_analyzed": 11596,
+    "total_skills_identified": 317,
+    "most_demanded_skill": "Data Science",
+    "most_common_category": "programming",
+    "avg_skills_per_job": 15.97835460503622
+  },
+  "top_skills": [
+    [
+      "Data Science",
+      11596
+    ],
+    [
+      "Python",
+      8018
+    ],
+    [
+      "Machine Learning",
+      7507
+    ],
+    [
+      "Computer Science",
+      5579
+    ],
+    [
+      "Sql",
+      4988
+    ],
+    [
+      "Statistics",
+      4653
+    ],
+    [
+      "Cloud",
+      4281
+    ],
+    [
+      "Data Engineer",
+      3861
+    ],
+    [
+      "Mathematics",
+      3348
+    ],
+    [
+      "Aws",
+      3312
+    ]
+  ],
+  "category_prevalence": {
+    "programming": 99.17212832011039,
+    "ml frameworks": 20.903759917212835,
+    "big data": 30.55363918592618,
+    "cloud": 42.238703001034835,
+    "visualization": 19.196274577440498,
+    "statistics": 40.125905484649884,
+    "ml techniques": 66.59192825112108
+  }
+}
